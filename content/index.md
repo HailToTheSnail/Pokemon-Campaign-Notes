@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the world of Pokémon
 ---
 
 This is a blank Quartz installation.
