@@ -1,6 +1,6 @@
 ---
-title: Session 1
-draft: false
+title: Session 2
+draft: true
 tags:
 ---
 ## Characters:
@@ -10,10 +10,12 @@ tags:
 3. [[Bread 2 - Baguette]]
 
 ## Current Threads (Quests):
-- N/A
+- Beat the first Gym Leader, Cadmus, in Anca Town
+	- Current Step: Travel through Route 1
+	- Next Step: Travel through Route 2
 
 ## Party Information and Recap:
-- N/A
+- 
 
 ## Notes:
-- N/A
+- 
