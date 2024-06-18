@@ -9,7 +9,10 @@ White Bread is the most basic of bitches. White Bread is uninteresting. White Br
 White Bread is forever cursed to be white bread and named after white bread until they hand in a character sheet to the game master so that they might one day become a real girl.
 
 ## Goals:
+- Become a real girl
 
 ## Pokemon:
+- N/A
 
 ## Backstory:
+- N/A
