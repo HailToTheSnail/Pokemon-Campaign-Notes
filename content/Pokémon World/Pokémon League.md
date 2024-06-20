@@ -1,9 +1,7 @@
 ---
 title: Pokémon League
-draft: false
+draft: true
 tags:
 ---
-![[Pokémon League.png]]
-The Pokémon League is diplomatic, political, and entertainment an international 
-
-## 
+![[Pokemon League.png]]
+The Pokémon League is an entertainment conglomerate sponsored by the Pokémon Association. It is an 
