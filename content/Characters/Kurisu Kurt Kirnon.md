@@ -19,4 +19,4 @@ Kurisu Kurt Kirnon has a lean physique befitting his olive-brown skin
 
 ## Backstory:
 
-## Notes
+## Notes:
