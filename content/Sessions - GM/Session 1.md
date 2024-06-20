@@ -6,7 +6,7 @@ tags:
 ## Characters:
 
 1. [[Kurisu Kurt Kirnon]]
-2. [[Bread 1 - White Bread]]
+2. [[Mimi Lualdi]]
 3. [[Bread 2 - Baguette]]
 
 ## Current Threads (Quests):

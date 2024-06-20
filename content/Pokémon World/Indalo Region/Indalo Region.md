@@ -1,6 +1,6 @@
 ---
 title: Indalo Region
-draft: true
+draft: false
 tags:
 ---
 ![[Indalo Region.png]]
