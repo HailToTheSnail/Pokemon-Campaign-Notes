@@ -4,15 +4,16 @@ draft: false
 tags:
 ---
 ![[Indalo Region.png]]
-This is the Indalo Region
+The Indalo region is a relatively new region associated with the [[Pokémon League]], and by extension, the [[Pokémon World]]. 
 
 ## History:
-
+The players have yet to uncover any information on the history of the Indalo Region.
 
 ## Geography:
 
 
 ### Climate -
+
 
 ### Demographics -
 
