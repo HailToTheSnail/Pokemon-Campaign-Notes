@@ -7,7 +7,7 @@ tags:
 
 1. [[Kurisu Kurt Kirnon]]
 2. [[Mimi Lualdi]]
-3. [[Bread 2 - Baguette]]
+3. [[Al Greene]]
 
 ## Current Threads (Quests):
 - N/A
