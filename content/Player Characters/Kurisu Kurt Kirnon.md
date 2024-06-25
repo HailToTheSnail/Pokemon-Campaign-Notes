@@ -15,7 +15,7 @@ Kurisu Kurt Kirnon has a lean physique befitting his olive-brown skin
 
 ## Pokemon:
 
-### [[Squirtle]] -
+### [[Squirtle]]☆ -
 The faithful Tiny Turtle Pokemon of Kurisu who has been by his side ever since the young swimmer found him out at sea. Having braved the oceans together, they have formed a camaraderie very few trainers can claim to have achieved.
 
 ## Backstory:

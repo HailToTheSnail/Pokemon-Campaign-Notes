@@ -12,6 +12,15 @@ In many of the legends of the Sinnoh people, it is said that the universe, Poké
 During the early formation of the Pokémon World, possibly sooner, Arceus created Azelf, Uxie, and Mesprit in order to create willpower, knowledge, and emotion respectfully, gifting these attributes to the future humans and Pokémon.  Upon their conception, they dove into the depths of present-day Lake Valor, Lake Acuity, and Lake Verity, becoming the "Lake Guardians". These three embodiments of willpower, knowledge, and emotion were also gifted with the ability to calm and control the Origin Pokemon's first children, the Creation Trio.
 
 ## Regions:
+
+### Kanto -
+
+
+### Johto -
+
+
+
+
 - https://pokemon.fandom.com/wiki/Arceus%27_World
 - https://pokemon.fandom.com/wiki/Temporal_World
 - https://pokemon.fandom.com/wiki/Spatial_World

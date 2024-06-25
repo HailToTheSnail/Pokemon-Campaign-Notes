@@ -16,6 +16,16 @@ tags:
 - **Origin of the World:** 
 - **The Dreamscape:** 
 - **Island in the Sky:** 
+- **Paradoxes in Time:** - A scientist, influenced by the Paradox Pokémon, Eternatus, travels to the past to create fractures in the time-space continuum. Things begin to change in the present and the main party are the only ones who remember the original timeline. A Celebi appears before the main party and task them with traveling through time to fix the past and prevent the freeing of Eternatus; each paradox creates a fractures in the cage that holds the Paradox Pokémon.
+	- [AZ](https://bulbapedia.bulbagarden.net/wiki/AZ) After AZ uses the [Ultimate Weapon](https://bulbapedia.bulbagarden.net/wiki/Ultimate_weapon) to resurrect his Floette and take the lives of the Kalos soldiers and Pokémon of the Civil War, his Pokémon is appalled by the loss of life for itself and leaves him. When at his weakest, the mad scientist coerces AZ to turn his hurt against the world. Find a way to quell AZ's sorrows or destroy the Ultimate Weapon.
+	- [Draconid People](https://m.bulbapedia.bulbagarden.net/wiki/Draconid_people) When Rayquaza is stopping a fight between Groudon and Kyogre, the mad scientist uses the Red Orb and Blue Orb to Primal Revert the two and incapacitate the Sky Dragon. Find a way to heal and Mega Evolve Rayquaza in order to quell the battle between Groudon and Kyogre.
+	- [Hisui](https://bulbapedia.bulbagarden.net/wiki/Hisui) When Volo summons Giratina to battle Rei, the protagonist of Legends, the mad scientist provides Volo with the Griseous Core. This results in the Antimatter Pokémon turning into Giratina Origin Forme and defeating Rei. Find a way to help Rei overcome Volo and Giratina Origin Forme (most contributions gets an Origin Ball from Cogita).
+	- [Pokelantis](https://m.bulbapedia.bulbagarden.net/wiki/M09) (When the Blackbeard Pirates are trying to steal the crystals of the Sea Crown from within the Sea Temple, Samiya, they're assisted by the mad scientist who poses as 
+	- Mad scientist helps the Blackbeard Pirates steal the crystals of the Sea Crown from within the Sea Temple, Samiya. This causes the Samiya to start a cataclysmic event that threatens to start a worldwide tsunami that'd swallow all land if the crystals aren't returned. The main party is tasked with helping retrieve the crystals of the Sea Crown from the Blackbeard Pirates with the aid of the prince of the sea, Manaphy, as she can sense the crystals. She gives a Manaphy Egg to whoever contributes the most and they keep their special crystal equipment that helps them open [People of the Water](https://m.bulbapedia.bulbagarden.net/wiki/People_of_the_Water) technology [useful in ruins].)
+	- [The Kingdom of Vale](https://m.bulbapedia.bulbagarden.net/wiki/Kingdom_of_the_Vale) (Where the Heroes of Ideals and Truth are supposed to fight, they instead work together because their mother was never killed due to the benevolence of a miracle doctor [mad scientist]. Main party must make a morale choice of killing the mother or find another way for the brothers to fight that I find acceptable. Knights of the Round Table with Pokemon partners. Brady will be able to control the Dragon Force and become a pseudo Dragon-Type [stats similar to Dragonite].)
+- **Providence:** 
+	- **Providence Overthrown:** 
+		- **Rocket Providence:** 
 
 ## NPCs:
 - 

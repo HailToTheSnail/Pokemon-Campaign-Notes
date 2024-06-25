@@ -23,6 +23,7 @@ Pokémon Ranger uniforms vary from region to region, each variety of uniform tai
 - Polar - 
 - Temperate - 
 - Tropical - 
+
 However, the two things that are universal across all uniforms are that they are red and black, and have the Pokémon Association logo emblazoned proudly across the back of the jacket.
 
 
