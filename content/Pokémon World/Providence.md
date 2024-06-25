@@ -59,20 +59,23 @@ While hiding out in the Tohjo Falls, Giovanni was approached by Providence who a
 
 At the request of the Partners, with his new position came a new identity, and Giovanni became Vanway Hister, an upstanding politician who while quiet and unnerving had the best interest of the people in mind. Ever since Giovanni was employed under the service of Providence, he has slowly and meticulously converted many influential corporations into Providence assets in order to help secure total control of all of the world's affairs.
  
-Giovanni is also responsible for inducting many influential and powerful Providence operatives, such as Champion Cadence of the Indalo region, Kaelford Gym Leader Teft, Lex of the Hoenn Mafioso, and the Metro City Chief of Police Meltlake.
+Giovanni is also responsible for inducting many influential and powerful Providence Heralds and Operatives, such as Champion Cadence of the Indalo region, Kaelford Gym Leader Teft, Lex of the Hoenn Mafioso, and the Metro City Chief of Police Meltlake.
 
 #### Pokémon:
 - Persian☆ (Male) (Normal-Type) - Persian is Giovanni's starter Pokémon that he rescued as a kid. The Classy Cat Pokemon has been by his trainer's side since the beginning of his journey and seen him through many tough battles. 
 - Rhyperior (Male) (Ground/Rock-Type) - Rhyperior is Giovanni's ace and the Pokémon that the former Team Rocket head instinctively reaches for when caught between a Golem and a hard place. Hardly ever knowing defeat, this invincible goliath of a Pokémon is a reliable pillar that Giovanni's team can rally behind.
-- Nidoking (Male) (Poison/Ground-Type) - Nidoking is one of Giovanni's two most coordinated Pokémon alongside their mate, Nidoqueen. Together the two are a force to be reckoned with
-- Nidoqueen (Female) (Poison/Ground-Type) - Nidoqueen is one of Giovanni's two reliable 
-- Kangaskhan (Female) (Normal-Type) -
-- Honchkrow Male (Dark/Flying-Type) -
-
+- Nidoking (Male) (Poison/Ground-Type) - Nidoking is one of Giovanni's two most coordinated Pokémon alongside their mate, Nidoqueen. Together the two are a force capable of matching a minor Legendary Pokémon.
+- Nidoqueen (Female) (Poison/Ground-Type) - Nidoqueen is one of Giovanni's two reliable two most coordinated Pokémon alongside their mate, Nidoking. Together the two are a force capable of matching a minor Legendary Pokémon.
+- Honchkrow (Male) (Dark/Flying-Type) - Honchkrow is Giovanni's cloak and dagger Pokémon. He is an extremely agile Pokémon 
+- Kangaskhan (Female) (Normal-Type) - Kangaskhan is the Pokémon that Giovanni appears with in public under his identity as Vanway Hister. Despite appearing friendly in public, Kangaskhan is a very capable Pokémon that can tangle with the rest of the former Team Rocket head's team.
 
 ## The Heralds:
 
-### 
+### Meltlake -
+Meltlake (54) is the current 
+
+### Teft -
+
 
 ## Operatives/Organizations:
 

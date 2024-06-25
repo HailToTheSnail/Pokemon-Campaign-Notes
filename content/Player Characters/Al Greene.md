@@ -1,11 +1,11 @@
 ---
-title: Bread 2 - Baguette
+title: Al Greene
 draft: false
 tags:
 ---
 ![[Al Greene.png]]
 ## Description:
-Al Green is purebred Kantoan man was a Berry Farmer until he found himself on the run from loansharks.
+Al Greene is purebred Kantoan man was a Berry Farmer until he found himself on the run from loansharks.
 
 
 

@@ -13,9 +13,10 @@ tags:
 - **Pokémon Champion:** 
 
 ## Future Threads:
-- **Origin of the World:** 
-- **The Dreamscape:** 
-- **Island in the Sky:** 
+- **Origin of the World:** Recent discoveries of blackholes suggest that they lead back to the beginning of time, feeding temporal energy to the Big Bang. Learn of the origin of the world and Pokémon as a species.
+- **The Dreamscape:** News of a groundbreaking vacation dreamscape has been advertised all over Indalo. Learn more about this dreamscape and perhaps take a much needed vacation.
+- **Island in the Sky:** A mural within a temple located in the Pandora Wilds has revealed that Diphisra is sealed away within a temple in the sky. Find a way to reach the temple in the sky and secure Diphisra's Key before Providence can release the Embodiment of Courage.
+- Diphisra sealed in a temple in the sky (encounters make this feel Zelda nostalgic-like with temples in desert, sky, and underwater.)
 - **Paradoxes in Time:** - A scientist, influenced by the Paradox Pokémon, Eternatus, travels to the past to create fractures in the time-space continuum. Things begin to change in the present and the main party are the only ones who remember the original timeline. A Celebi appears before the main party and task them with traveling through time to fix the past and prevent the freeing of Eternatus; each paradox creates a fractures in the cage that holds the Paradox Pokémon.
 	- [AZ](https://bulbapedia.bulbagarden.net/wiki/AZ) After AZ uses the [Ultimate Weapon](https://bulbapedia.bulbagarden.net/wiki/Ultimate_weapon) to resurrect his Floette and take the lives of the Kalos soldiers and Pokémon of the Civil War, his Pokémon is appalled by the loss of life for itself and leaves him. When at his weakest, the mad scientist coerces AZ to turn his hurt against the world. Find a way to quell AZ's sorrows or destroy the Ultimate Weapon.
 	- [Draconid People](https://m.bulbapedia.bulbagarden.net/wiki/Draconid_people) When Rayquaza is stopping a fight between Groudon and Kyogre, the mad scientist uses the Red Orb and Blue Orb to Primal Revert the two and incapacitate the Sky Dragon. Find a way to heal and Mega Evolve Rayquaza in order to quell the battle between Groudon and Kyogre.
