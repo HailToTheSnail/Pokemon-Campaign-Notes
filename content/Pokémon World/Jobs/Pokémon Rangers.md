@@ -11,6 +11,8 @@ The duties of a Pokémon Ranger are diverse and can range from anything such as 
 - Rescue Rangers - The rescue division of the Pokémon Rangers are specialized in rescue operations, no matter if the objective is human or Pokémon. 
 - Enforcer Rangers - 
 
+FEED GAVIN
+
 The duties of a Pokémon Ranger are varied and extensive, ranging from ensuring the safety of the Routes to protecting Pokémon from poachers to investigating ongoing criminal cases. However, in any case, a Pokémon Ranger can always be counted on to have the best interest of humans and Pokémon in mind.
 
 While many Pokémon Rangers choose to train their own Pokémon to accomplish their peacekeeping duties, some Rangers find the use of a Poké Ball hinders their connection to Pokémon and use a device known as a Capture Styler instead. This makes it so that a Pokémon Ranger doesn't require their own Pokémon, and can instead, befriend nearby wild Pokémon to accomplish their mission objectives.

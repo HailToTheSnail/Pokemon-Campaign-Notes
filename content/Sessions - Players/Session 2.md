@@ -4,7 +4,6 @@ draft: true
 tags:
 ---
 ## Characters:
-
 1. [[Kurisu Kurt Kirnon]]
 2. [[Mimi Lualdi]]
 3. [[Al Greene]]

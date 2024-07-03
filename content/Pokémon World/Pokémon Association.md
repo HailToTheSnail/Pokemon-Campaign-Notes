@@ -15,7 +15,7 @@ Within another decade, the UCR welcomed Ferrum, Oblivia, and Orre into its folds
 
 With so many new smaller regions joining the UCR, many of the representatives of these smaller  regions made their disapproval of the organization's name known, and after a vote and much deliberation, the UCR was succeeded by the Pokémon Association. A name chosen to honor the lessons learned with using Pokémon as tools of war.
 
-In recent years, the Pokémon Association has acknowledged Alola as a proper sovereign region and membership was admitted for the tropical region. In addition, the first man-made artificial island, Pasio, which already had the sponsorship and approval of the Pokémon Association, was completed and accepted into the international organization. Finally, membership was also extended to Indalo with its recent discovery, which the region representative was happy to accept and join the Pokémon Association.
+In the last twenty years, the Pokémon Association has acknowledged Alola as a proper sovereign region and membership was admitted for the tropical region. In addition, the first man-made artificial island, Pasio, which already had the sponsorship and approval of the Pokémon Association, was completed and accepted into the international organization. Finally, membership was also extended to Indalo with its recent discovery, which the region representative was happy to accept and join the Pokémon Association.
 
 ## Structure:
 

@@ -4,16 +4,16 @@ draft: false
 tags:
 ---
 ![[Mimi Lualdi.png]]
-## Description:
+## Description
 Mimi Lualdi was born and raised in Snowpoint City and made friends with a Snorunt. Loves snow.
 
-## Goals:
+## Goals
 - Become a Champion-level trainer.
 
-## Pokemon:
+## Pokémon
 
-### [[Snorunt]]☆ -
+### [[Snorunt]]☆
 
 
-## Backstory:
+## Backstory
 - N/A

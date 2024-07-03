@@ -4,7 +4,6 @@ draft: true
 tags:
 ---
 ## Characters:
-
 1. [[Kurisu Kurt Kirnon]]
 2. [[Mimi Lualdi]]
 3. [[Al Greene]]
@@ -14,17 +13,20 @@ tags:
 	- Current Step: Travel through Route 1
 	- Next Step: Travel through Route 2
 
-## Party Information and Recap:
+## Information:
 - 
 
 ## NPCs Encounters:
 - NPC Name
-	- Affection, Gender, Race and Job
-	- Voice and Inflection (slow speaking and confident, high-pitched and energetic)
+	- Gender: 
+	- Race: 
+	- Job: 
+	- Affection: 
+	- Voice and Inflection: (slow speaking and confident, high-pitched and energetic)
 	- NPC Dialogue Lines (what they know)
-		- Dialogue 1:
-		- Dialogue 2:
-		- Dialogue 3:
+		- Dialogue 1: 
+		- Dialogue 2: 
+		- Dialogue 3: 
 
 ## Planned Encounters:
 - 

@@ -10,11 +10,11 @@ tags:
 	- Having been born in the waters off the coast of Pacifidlog Town, the newborn Kurisu suffered greatly from  was blessed by Manaphy, and by extension, the ocean itself. Favored by the "Prince of the Sea" themselves, Kurisu has been blessed with a deeper connection and love for the ocean and Water-Types. 
 
 ## Current Threads:
-- **Pokémon Champion:** 
+- **Pokémon Champion:** Having met Champion Cadence, a desire to achieve what he has achieved has been burned into the soul. Take your team to the top and achieve every trainer's dream of becoming the Champion.
 
 ## Future Threads:
 - **Origin of the World:** Recent discoveries of blackholes suggest that they lead back to the beginning of time, feeding temporal energy to the Big Bang. Learn of the origin of the world and Pokémon as a species.
-- **The Dreamscape:** News of a groundbreaking vacation dreamscape has been advertised all over Indalo. Learn more about this dreamscape and perhaps take a much needed vacation.
+- **The Dreamscape:** News of a groundbreaking vacation dreamscape has been advertised all over Indalo. Learn more about this dreamscape and perhaps take a much needed vacation (Kaidan is Dreamscape mascot, Chowie).
 - **Island in the Sky:** A mural within a temple located in the Pandora Wilds has revealed that Diphisra is sealed away within a temple in the sky. Find a way to reach the temple in the sky and secure Diphisra's Key before Providence can release the Embodiment of Courage.
 - Diphisra sealed in a temple in the sky (encounters make this feel Zelda nostalgic-like with temples in desert, sky, and underwater.)
 - **Paradoxes in Time:** - A scientist, influenced by the Paradox Pokémon, Eternatus, travels to the past to create fractures in the time-space continuum. Things begin to change in the present and the main party are the only ones who remember the original timeline. A Celebi appears before the main party and task them with traveling through time to fix the past and prevent the freeing of Eternatus; each paradox creates a fractures in the cage that holds the Paradox Pokémon.
@@ -23,10 +23,11 @@ tags:
 	- [Hisui](https://bulbapedia.bulbagarden.net/wiki/Hisui) When Volo summons Giratina to battle Rei, the protagonist of Legends, the mad scientist provides Volo with the Griseous Core. This results in the Antimatter Pokémon turning into Giratina Origin Forme and defeating Rei. Find a way to help Rei overcome Volo and Giratina Origin Forme (most contributions gets an Origin Ball from Cogita).
 	- [Pokelantis](https://m.bulbapedia.bulbagarden.net/wiki/M09) (When the Blackbeard Pirates are trying to steal the crystals of the Sea Crown from within the Sea Temple, Samiya, they're assisted by the mad scientist who poses as 
 	- Mad scientist helps the Blackbeard Pirates steal the crystals of the Sea Crown from within the Sea Temple, Samiya. This causes the Samiya to start a cataclysmic event that threatens to start a worldwide tsunami that'd swallow all land if the crystals aren't returned. The main party is tasked with helping retrieve the crystals of the Sea Crown from the Blackbeard Pirates with the aid of the prince of the sea, Manaphy, as she can sense the crystals. She gives a Manaphy Egg to whoever contributes the most and they keep their special crystal equipment that helps them open [People of the Water](https://m.bulbapedia.bulbagarden.net/wiki/People_of_the_Water) technology [useful in ruins].)
-	- [The Kingdom of Vale](https://m.bulbapedia.bulbagarden.net/wiki/Kingdom_of_the_Vale) (Where the Heroes of Ideals and Truth are supposed to fight, they instead work together because their mother was never killed due to the benevolence of a miracle doctor [mad scientist]. Main party must make a morale choice of killing the mother or find another way for the brothers to fight that I find acceptable. Knights of the Round Table with Pokemon partners. Brady will be able to control the Dragon Force and become a pseudo Dragon-Type [stats similar to Dragonite].)
+	- [The Kingdom of Vale](https://m.bulbapedia.bulbagarden.net/wiki/Kingdom_of_the_Vale) (Where the Heroes of Ideals and Truth are supposed to fight, they instead work together because their mother was never killed due to the benevolence of a miracle doctor [mad scientist]. Main party must make a morale choice of killing the mother or find another way for the brothers to fight that I find acceptable. Knights of the Round Table with Pokémon partners. Brady will be able to control the Dragon Force and become a pseudo Dragon-Type [stats similar to Dragonite].)
 - **Providence:** 
 	- **Providence Overthrown:** 
-		- **Rocket Providence:** 
+		- **Rocket Providence:** With Giovanni having killed off the Partners of Providence, he has taken over the shadow cabal with powerful allies that he has recruited over the years, such as Alexander "Lex" Stone and Champion Cadence. Find a way to stop Rocket Providence and defeat Giovanni.
+- **What Makes A King (Kurisu Quest Thread):** After learning from a that his Seadra can evolve once more, Kurisu embarks on a quest to gather six Marks of Fealty from Pokémon from all over the Indalo region.
 
 ## NPCs:
 - 
@@ -37,8 +38,12 @@ tags:
 - **Kaiju Trio:**
 	- While the legends in Sinnoh depict Arceus creating Azelf (willpower), Uxie (knowledge), and Mesprit (emotion) after the Creation Trio, the truth is that the Origin Pokémon created another trio of Legendaries before the Lake Guardians. A prototype to Emotion, Knowledge, and Willpower. Concepts less refined jammed into vessels incapable of holding such vast abstractions. Courage, Power, and Wisdom. Diphisra, Infernagon, and Gamera.
 	- Incapable of returning the concepts of Courage, Power, and Wisdom to the Void, Arceus instead sealed the Kaiju Trio away within the earth, sky and water of present-day Indalo. Having learnt better, the Origin Pokemon then took a small fraction of the Kaiju Trio's power and created Azelf (willpower), Uxie (knowledge), and Mesprit (emotion) and 
-- **The Kingdom of Elkia:** 
-	- The Indalo region used to be recognized as the Kingdom of Elkia by Immanity, the people of Elkia, before most of their history was lost to the ravages of time save for a few murals left in locations of importance to the Kaiju Trio.
+- **Earthbound Immortals (based on Nazca Lines):** 
+	- The Earthbound Immortals are six extremely powerful and dangerous Legendary Pokémon without sentience whose sole purpose is to maintain the seals that keep Chrovos from setting the Pokémon World aflame in chaos. They are sealed in geoglyphs across the Indalo region, some of which have been uncovered while others have been lost to time itself.
+	- One of the Kaiju Trio awaken whenever one of the Earthbound Immortals are set free and act as wardens of sorts to the otherwise walking disasters that are the Earthbound Immortals. 
+	- They are based on the [Nazca Lines](https://en.wikipedia.org/wiki/Nazca_lines) in the Nazca Desert in southern Peru. 
+- **The Kingdom of Edria:** 
+	- The Indalo region used to be recognized as the Kingdom of Edria by the Edrians, the people of Elkia, before most of their history was lost to the ravages of time save for a few murals left in locations of importance to the Kaiju Trio.
 
 ## Locations:
 - 
@@ -47,5 +52,4 @@ tags:
 
 
 ## Notes:
-- Culture
-- Pokedex to know what Route a Pokemon is 
+- Write more about Edrian culture and history, as well as Pokedex to know what Route a Pokemon is and behaviours
