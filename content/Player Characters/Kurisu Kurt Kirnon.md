@@ -15,6 +15,12 @@ Kurisu Kurt Kirnon has a lean physique befitting his olive-brown skin
 - To protect his friends to the end of the journey this time.
 - He wants to find the All Blue (has watched too much One Piece).
 
+## Badges
+- N/A
+
+## Achievements
+- N/A
+
 ## Pokémon
 
 ### [[Squirtle]]☆
@@ -23,3 +29,4 @@ The faithful Tiny Turtle Pokemon of Kurisu who has been by his side ever since t
 ## Backstory
 
 ## Notes
+$300-$6

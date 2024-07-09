@@ -3,18 +3,18 @@ title: Session 1
 draft: true
 tags:
 ---
-## Characters:
+## Characters
 1. [[Kurisu Kurt Kirnon]]
 2. [[Mimi Lualdi]]
 3. [[Al Greene]]
 
-## Current Threads (Quests):
+## Current Threads (Quests)
 - N/A
 
-## Party Information and Recap:
+## Party Information and Recap
 - N/A
 
-## Descriptions and Details:
+## Descriptions and Details
 - Indalo Map: (60% Zoom)
 	- Welcome to the Indalo Region. A beautiful expanse of land and sea that converges together to bring about a world of spectacular sights and an abundant culture. From the freezing peaks of The Dragon's Spine to the treacherous depths of the Inviron Trench. The wonderful culture of the Indalo people and the diverse history of their divine ancestry. Rich with a diverse collection of Pokémon both common and rare that surpass the numbers seen in other regions, Indalo is quickly becoming an international competitive Pokémon battling hub that is hosting its largest Pokémon League circuit. Secrets abundant and prophecies foretold, this region holds a great deal of adventure for those that choose to explore it. And if you do choose to embark on this journey, there are many different aspects of an adventure you can hope to accomplish; challenging the Gym Leaders of the region, enjoying Pokémon contests, and overall seeing the sights of the world. So go forth into the Pokémon World and spin your own legend! A world of dreams and adventures with Pokémon awaits! Let's go!
 - Solet Town: (60% Zoom)
@@ -57,10 +57,8 @@ tags:
 - Professor's Lab: (75% Zoom)
 	- Entering into the Professor's Lab, you're immediately hit by the smell of science. You don't really have a proper idea of what science smells like but it just feels right to say that. The walls are lined with scientific gear that you don't even know the names of as well as papers scattered across the gear and tables. You notice the hectic frenzy the lab is in with the hustle and bustle of researchers moving around the room. And while chaotic at first, you notice that it's fairly organized and therefore fairly normal of these people. However, this isn't the reason you're here. And you set your sights on the back of the laboratory where you see two people with wildly drastic appearances than the rest of the science rabble here.
 	- The first is a tall man with long black hair styled like waving flames. He's wearing a simple blue collared shirt under a white lab coat, black jeans and black runners. A little different from the normal appearance and wear you'd see a proper professor wearing, but it was a lot more tame compared to the girl standing next to him. Her hair was a bright orange with small star adornments sprinkled within. She had black sunglasses tinted red resting on the top of her head. She is wearing a turquoise tank top under her own white lab coat, sky blue jeans, and turquoise boots.
-- Route 1: (75% Zoom)
-	- As you step foot outside of Solet Town, your hit with the sudden realization that you've started on your own adventure. Something you've dreamed of since childhood but never had the chance to actually experience. It was surreal in a sense, amplifying every aspect of what could be considered a rather generic Route. The vibrant forest path glows just a bit brighter in your eyes, the pleasing scent of berries and trees just that much more rich, and the chirping of wild Starly and the scuttling of wild Rattata rings louder in your ears. It's beautiful, ethereal despite its normality. You can see that the sun is starting to set in the distance, but you're fairly sure you can make it at least halfway to the end of the Route before you need to set up camp for the night.
 
-## NPCs Encounters:
+## NPCs Encounters
 - Professor Stephen
 	- Gender: Male
 	- Race: Indaloan
@@ -78,7 +76,7 @@ tags:
 	- Race: Galarian
 	- Job: Pokémon Professor
 	- Affection: Neutral (Al and Mimi) and Low (Kurisu)
-	- Voice and Inflection: Excitable, friendly, and speaks quickly
+	- Voice and Inflection: Excitable and friendly. Speaks quickly when excited.
 	- Dialogue Lines:
 		- Dialogue 1: An introduction that she is a Pokémon Professor that researches the origin of human civilizations. She will tell the players that she's here on vacation but also hopes to discover the lost history of the Indalo people.
 		- Dialogue 2: If spoken to enough, she will start to tell embarrassing stories about Professor Stephen at Professor Oak's summer camp that they attended as kids. Like how he cried over the marshmallow that she stole from him at the campfire.
@@ -87,13 +85,14 @@ tags:
 	- Race: Indaloan
 	- Job: Pokémon Researcher
 	- Affection: Neutral (Al and Mimi) and Low (Kurisu)
-	- Voice and Inflection: Confident and 
+	- Voice and Inflection: Obnoxious and arrogant to those he sees beneath them but subservient to those above him. Nasally voice.
 	- Dialogue Lines:
 		- Dialogue 1: Will largely ignore the players until they are about to leave and will then introduce himself as Researcher Orden and explain that he will be the liaison between the party and Professor Stephen
 
-## Planned Encounters:
+## Planned Encounters
 
-### Professor Stephen Battle:
+### Professor Stephen Battle
+
 | Beldum - Male | Type: Steel/Psychic | Ability: Clear Body | Moves:             | Held Items:                                                             |
 | ------------- | ------------------- | ------------------- | ------------------ | ----------------------------------------------------------------------- |
 | Lv: 2         | Fly Speed: 25ft     | Insight +3          | Take Down (Normal) | Vulnerabilities: Dark, Fire, Ghost, Ground                              |
@@ -114,61 +113,18 @@ tags:
 | HP: 16         |                  |                      | Foresight (Normal)    | Resistances: Bug, Dark, Rock            |
 | AC: 12         |                  |                      | Endure (Normal)       | Immunities: N/A                         |
 | Nature: Brave  | Size: Tiny       | Proficiency: 2       |                       | EXP Worth: 80                           |
-### Adolescence Joey & Friends:
-| Rattata - Male | Type: Normal      | Ability: Guts  | Moves:                | Held Items:               |
-| -------------- | ----------------- | -------------- | --------------------- | ------------------------- |
-| Lv: 3          | Walk Speed: 30ft  | Perception +1  | Tackle (Normal)       | Vulnerabilities: Fighting |
-| HP: 24         | Climb Speed: 30ft | Stealth +5     | Tail Whip (Normal)    | Resistances:              |
-| AC: 12         | Dark Vision: 30ft |                | Quick Attack (Normal) | Immunities: Ghost         |
-| Nature: Clumsy | Size: Tiny        | Proficiency: 2 | Bite (Dark)           | EXP Worth: 150            |
-
-| Spearow - Female | Type: Fighting   | Ability: Keen Eye | Moves:         | Held Items:                          |
-| ---------------- | ---------------- | ----------------- | -------------- | ------------------------------------ |
-| Lv: 1            | Walk Speed: 10ft | Insight +2        | Peck (Flying)  | Vulnerabilities: Electric, Ice, Rock |
-| HP: 16           | Fly Speed: 25ft  |                   | Growl (Normal) | Resistances: Bug, Grass              |
-| AC: 12           |                  |                   | Leer (Normal)  | Immunities: Ghost, Ground            |
-| Nature: Brave    | Size: Tiny       | Proficiency: 2    |                | EXP Worth: 40                        |
-
-| Nidoran - Male   | Type: Fighting   | Ability: Poison Point | Moves:                 | Held Items:                                      |
-| ---------------- | ---------------- | --------------------- | ---------------------- | ------------------------------------------------ |
-| Lv: 2            | Walk Speed: 20ft | Perception +2         | Peck (Flying)          | Vulnerabilities: Ground, Psychic                 |
-| HP: 22           |                  |                       | Leer (Normal)          | Resistances: Bug, Fairy, Fighting, Grass, Poison |
-| AC: 12           |                  |                       | Double Kick (Fighting) | Immunities: N/A                                  |
-| Nature: Arrogant | Size: Tiny       | Proficiency: 2        |                        | EXP Worth: 80                                    |
-### Route 1 Encounter 1:
-| Pidgey - Female   | Type: Normal/Flying | Ability: Keen Eye | Moves:          | Held Items: N/A                      |
-| ----------------- | ------------------- | ----------------- | --------------- | ------------------------------------ |
-| Lv: 1             | Walk Speed: 20ft    | Perception +2     | Tackle (Normal) | Vulnerabilities: Electric, Ice, Rock |
-| HP: 16            | Fly Speed: 25ft     |                   |                 | Resistances: Bug, Grass              |
-| AC: 12            |                     |                   |                 | Immunities: Ghost, Ground            |
-| Nature: Energetic | Size: Tiny          | Proficiency: 2    |                 | EXP Worth: 40                        |
-
-| Pidgey - Male    | Type: Normal/Flying | Ability: Tangled Feet | Moves:          | Held Items: N/A                      |
-| ---------------- | ------------------- | --------------------- | --------------- | ------------------------------------ |
-| Lv: 1            | Walk Speed: 20ft    | Perception +2         | Tackle (Normal) | Vulnerabilities: Electric, Ice, Rock |
-| HP: 16           | Fly Speed: 25ft     |                       |                 | Resistances: Bug, Grass              |
-| AC: 12           |                     |                       |                 | Immunities: Ghost, Ground            |
-| Nature: Arrogant | Size: Tiny          | Proficiency: 2        |                 | EXP Worth: 40                        |
-
-| Pidgey - Male   | Type: Normal/Flying | Ability: Tangled Feet | Moves:          | Held Items:                          |
-| --------------- | ------------------- | --------------------- | --------------- | ------------------------------------ |
-| Lv: 1           | Walk Speed: 20ft    | Perception +2         | Tackle (Normal) | Vulnerabilities: Electric, Ice, Rock |
-| HP: 16          | Fly Speed: 25ft     |                       |                 | Resistances: Bug, Grass              |
-| AC: 12          |                     |                       |                 | Immunities: Ghost, Ground            |
-| Nature: Curious | Size: Tiny          | Proficiency: 2        |                 | EXP Worth: 40                        |
-
-| Pidgey - Female | Type: Normal/Flying | Ability: Keen Eye | Moves:          | Held Items:                          |
-| --------------- | ------------------- | ----------------- | --------------- | ------------------------------------ |
-| Lv: 1           | Walk Speed: 20ft    | Perception +2     | Tackle (Normal) | Vulnerabilities: Electric, Ice, Rock |
-| HP: 16          | Fly Speed: 25ft     |                   |                 | Resistances: Bug, Grass              |
-| AC: 13          |                     |                   |                 | Immunities: Ghost, Ground            |
-| Nature: Hardy   | Size: Tiny          | Proficiency: 2    |                 | EXP Worth: 40                        |
-
-| Sandshrew - Male | Type: Ground     | Ability: Sand Veil | Moves:                | Held Items:                        |
-| ---------------- | ---------------- | ------------------ | --------------------- | ---------------------------------- |
-| Lv: 2            | Walk Speed: 20ft | Athletics +4       | Peck (Flying)         | Vulnerabilities: Grass, Ice, Water |
-| HP: 16           | Dig Speed: 15ft  |                    | Defense Curl (Normal) | Resistances: Poison, Rock          |
-| AC: 14           |                  |                    | Sand Attack (Ground)  | Immunities:Electric                |
-| Nature: Innocent | Size: Tiny       | Proficiency: 2     | Rollout (Rock)        | EXP Worth: 160                     |
-## Notes:
-- 
+## Notes
+- The three players meet each other at Café Solet.
+- Kurisu buys a Thwack Energy Drink ($3).
+- Al orders Vegetable Stuffed Lechonk Tenderloin ($8) and Churros with Caramel Dip ($8)
+- Kurisu accidentally mistakes Mimi for a country hick and tries to tell her about the wonders of indoor lighting.
+- Kurisu tries to get Squirtle to steal some booze from behind the bar, but it fails spectacularly and the bartender notices.
+- Kurisu and Mimi get into a fight after Mimi exposes the former's Squirtle and made it out to be Kurisu's fault. Mimi tells the swimmer that she can give Squirtle a better life. Kurisu leaves and hopes Mimi gets cancer.
+- Mimi orders a Chocolate-Vanilla Fruit Parfait ($10).
+- Kurisu sneaks back into his seat but Al exposes him and the former apologizes to Mimi for telling her to get cancer. They have a heart to heart and start to get along.
+- Kurisu orders another Thwack Energy Drink ($3).
+- Kurisu asks Al if he wants to join him on an adventure and Al agrees. Al asks if Mimi wants to join them and she agrees.
+- The party heads to Professor Stephen's Lab to receive their Pokédex.
+- Kurisu tries to flirt with Professor Sonia who is having none of it.
+- Professor Stephen hands them their Pokédex before giving them a mock Pokémon battle to teach them the ropes.
+- The party earns 600 EXP (200 EXP each) from the battle.

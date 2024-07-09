@@ -16,5 +16,8 @@ After having donned his iconic stolen shades, Squirtle has become the coolest of
 | HP: 24            | Swim Speed: 20ft |                    | Tail Whip (Normal) | Resistances: Ice, Water, Fire, Steel |
 | AC: 14            |                  |                    | Water Gun (Water)  | Immunities: N/A                      |
 | Nature: Energetic | Size: Tiny       | Proficiency: 2     |                    | EXP: 200                             |
+## Inventory
+- 1x Potion
+
 ## Notes
 - At any time anything precious is within grabbing reach, Squirtle will attempt to pocket the shiny object.

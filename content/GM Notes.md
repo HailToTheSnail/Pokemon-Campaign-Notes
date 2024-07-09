@@ -3,16 +3,16 @@ title: GM Notes
 draft: true
 tags:
 ---
-## Player Characters:
+## Player Characters
 - [[Al Greene]]
 	- Al's full name is Alphonse Greene.
 - [[Kurisu Kurt Kirnon]]
 	- Having been born in the waters off the coast of Pacifidlog Town, the newborn Kurisu suffered greatly from  was blessed by Manaphy, and by extension, the ocean itself. Favored by the "Prince of the Sea" themselves, Kurisu has been blessed with a deeper connection and love for the ocean and Water-Types. 
 
-## Current Threads:
+## Current Threads
 - **Pokémon Champion:** Having met Champion Cadence, a desire to achieve what he has achieved has been burned into the soul. Take your team to the top and achieve every trainer's dream of becoming the Champion.
 
-## Future Threads:
+## Future Threads
 - **Origin of the World:** Recent discoveries of blackholes suggest that they lead back to the beginning of time, feeding temporal energy to the Big Bang. Learn of the origin of the world and Pokémon as a species.
 - **The Dreamscape:** News of a groundbreaking vacation dreamscape has been advertised all over Indalo. Learn more about this dreamscape and perhaps take a much needed vacation (Kaidan is Dreamscape mascot, Chowie).
 - **Island in the Sky:** A mural within a temple located in the Pandora Wilds has revealed that Diphisra is sealed away within a temple in the sky. Find a way to reach the temple in the sky and secure Diphisra's Key before Providence can release the Embodiment of Courage.
@@ -29,10 +29,11 @@ tags:
 		- **Rocket Providence:** With Giovanni having killed off the Partners of Providence, he has taken over the shadow cabal with powerful allies that he has recruited over the years, such as Alexander "Lex" Stone and Champion Cadence. Find a way to stop Rocket Providence and defeat Giovanni.
 - **What Makes A King (Kurisu Quest Thread):** After learning from a that his Seadra can evolve once more, Kurisu embarks on a quest to gather six Marks of Fealty from Pokémon from all over the Indalo region.
 
-## NPCs:
-- 
+## NPCs
+- Kamille has become Instagram famous.
+- Garibaldi - strongest trainer or Fakemon (on par with Bidoof)
 
-## History:
+## History
 - **Chrovos:** 
 	- In Sinnoh mythology, the Sinnoh people depict Arceus as the first being and creator of the universe. That isn't entirely true
 - **Kaiju Trio:**
@@ -45,11 +46,11 @@ tags:
 - **The Kingdom of Edria:** 
 	- The Indalo region used to be recognized as the Kingdom of Edria by the Edrians, the people of Elkia, before most of their history was lost to the ravages of time save for a few murals left in locations of importance to the Kaiju Trio.
 
-## Locations:
+## Locations
 - 
 
-## Quests:
+## Quests
 
 
-## Notes:
+## Notes
 - Write more about Edrian culture and history, as well as Pokedex to know what Route a Pokemon is and behaviours

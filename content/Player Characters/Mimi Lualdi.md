@@ -10,6 +10,12 @@ Mimi Lualdi was born and raised in Snowpoint City and made friends with a Snorun
 ## Goals
 - Become a Champion-level trainer.
 
+## Badges
+- N/A
+
+## Achievements
+- N/A
+
 ## Pokémon
 
 ### [[Snorunt]]☆
@@ -17,3 +23,6 @@ Mimi Lualdi was born and raised in Snowpoint City and made friends with a Snorun
 
 ## Backstory
 - N/A
+
+## Notes
+$1900-$10=

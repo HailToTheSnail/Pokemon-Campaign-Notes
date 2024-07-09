@@ -13,6 +13,12 @@ Al is a very sweet person who is both kind and patient. After having lived a rou
 - Get himself out of debt so he can go back to his homeland.
 	- Win the Indalo Pokémon League Circuit and the sizeable prize money.
 
+## Badges
+- N/A
+
+## Achievements
+- N/A
+
 ## Pokémon
 
 ### [[Munchlax]]☆
@@ -50,3 +56,6 @@ Alas, he was still incapable of turning a profit and took out another loan with 
 It was a reality check for Al, and he quickly extracted himself from the dreamland he’d concocted around himself, Munchlax and his little farm. These loan sharks were dangerous. They were very much capable of making people disappear overnight without a trace. If he didn’t pay them back, they would chase him to the ends of the Pokémon world to get their Pokedollars back. The farm was now nothing more than a plot of land and it would take much too long to get it to a point of being operable, but what could he do?
 
 Whether it was divine intervention, or just a happenstance of coincidence, the broken television in his now run down house turned on and garbled out some sort of news about a massive prize pool for winning the Zircon Conference at the end of the year of the Indalo League circuit. Desperate as he was, Al chose to hedge everything on this opportunity and booked a flight to Indalo with his partner, Munchlax.
+
+## Notes
+$234
