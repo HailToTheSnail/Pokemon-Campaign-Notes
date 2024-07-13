@@ -99,7 +99,7 @@ After joining Providence as an Operative, Cadence had the full support of the sh
 
 #### Pokémon
 - Electivire☆ (Male) (Electric-Type) - Electivire is Champion Cadence's starter Pokémon and the first of its kind. Many people speculate that Electivire evolves from Electabuzz, but no one aside from Champion Cadence has achieved this feat. The Thunderbolt Pokémon is an extremely capable and competitive Pokémon that always pulls through for his trainer and always paves the path forward to victory.
-- Chandelure (Genderless) (Ghost/Fire-Type) - Chandelure is 
+- Chandelure (Genderless) (Ghost/Fire-Type) - Chandelure is very quiet, observant and intelligent but also an extremely powerful and capable Pokémon. 
 - Flygon (Male) (Ground/Dragon-Type) - 
 - Gyarados (Female) (Water/Flying-Type) (Alpha) - Gyarados is a behemoth of a Pokémon that comes from a time long, long ago. Champion Cadence encountered and captured the Atrocious Pokémon deep within the Inviron Trench. Gyarados is an exception from its species and has learned to control its temper.
 - Machamp (Male) (Fighting-Type) - Machamp is the current holder of the 

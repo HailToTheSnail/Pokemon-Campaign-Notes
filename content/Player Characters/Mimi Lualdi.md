@@ -16,6 +16,17 @@ Mimi Lualdi was born and raised in Snowpoint City and made friends with a Snorun
 ## Achievements
 - N/A
 
+## Backpack
+
+### Key Items
+- Pokédex + Trainer's License
+
+### Pokéballs
+- 
+
+### Consumables
+- 
+
 ## Pokémon
 
 ### [[Snorunt]]☆

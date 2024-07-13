@@ -21,6 +21,34 @@ Kurisu Kurt Kirnon has a lean physique befitting his olive-brown skin
 ## Achievements
 - N/A
 
+## Backpack
+
+### Key Items
+- Pokédex + Trainer's License
+- 1x Interdimensional Backpack (stores 5x5 cubic feet)
+- 1x Sleeping Bag
+- 1x Tent (four person)
+- Diver's Kit
+	- 
+- 1x Explorer's Kit
+	- 1x Canteen
+	- 1x Flashlight
+	- 1x Multi-tool
+	- 1x Pocket Knife
+	- 1x Solar Charger
+	- 1x Flint and Steel
+	- 5x Energy Cell
+	- 30ft Rope
+- 1x Mess Kit
+	- 1x Camping Kettle
+	- 10x Camping Rations
+
+### Pokéballs
+- 5x Poké Balls
+
+### Consumables
+- 
+
 ## Pokémon
 
 ### [[Squirtle]]☆

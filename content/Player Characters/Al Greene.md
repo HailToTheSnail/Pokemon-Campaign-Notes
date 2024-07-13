@@ -19,6 +19,33 @@ Al is a very sweet person who is both kind and patient. After having lived a rou
 ## Achievements
 - N/A
 
+## Backpack
+
+### Key Items
+- Pokédex + Trainer's License
+- 1x Interdimensional Backpack (stores 5x5 cubic feet)
+- 1x Sleeping Bag
+- 1x Gardener's Kit
+- 1x Mess Kit
+	- 10x Camping Rations
+- 1x Survival Kit
+	- 1x Canteen
+	- 1x Flashlight
+	- 1x Pocket Knife
+	- 1x Flint and Steel
+	- 5x Energy Cell
+	- 30ft Rope
+
+### Pokéballs
+- 5x Pokéballs
+- 1x Nest Ball
+
+### Consumables
+- 1x Alola Stone
+- 1x Lum Berry
+- 1x Potion
+- 2x Soda Pop
+
 ## Pokémon
 
 ### [[Munchlax]]☆
