@@ -37,7 +37,7 @@ Al is a very sweet person who is both kind and patient. After having lived a rou
 	- 30ft Rope
 
 ### Pokéballs
-- 5x Pokéballs
+- 5x Poké Balls
 - 1x Nest Ball
 
 ### Consumables

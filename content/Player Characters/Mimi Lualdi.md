@@ -15,6 +15,8 @@ Mimi Lualdi was born and raised in Snowpoint City and made friends with a Snorun
 
 ## Achievements
 - N/A
+- PokéTube Subscribers (videos):
+- PokéSnap Followers (images): 
 
 ## Backpack
 
@@ -25,7 +27,7 @@ Mimi Lualdi was born and raised in Snowpoint City and made friends with a Snorun
 - 
 
 ### Consumables
-- 
+- 1x Bundle of Mushrooms
 
 ## Pokémon
 

@@ -116,7 +116,7 @@ tags:
 ## Notes
 - The three players meet each other at Café Solet.
 - Kurisu buys a Thwack Energy Drink ($3).
-- Al orders Vegetable Stuffed Lechonk Tenderloin ($8) and Churros with Caramel Dip ($8)
+- Al orders Vegetable Stuffed Lechonk Tenderloin (\$8) and Churros with Caramel Dip (\$8)
 - Kurisu accidentally mistakes Mimi for a country hick and tries to tell her about the wonders of indoor lighting.
 - Kurisu tries to get Squirtle to steal some booze from behind the bar, but it fails spectacularly and the bartender notices.
 - Kurisu and Mimi get into a fight after Mimi exposes the former's Squirtle and made it out to be Kurisu's fault. Mimi tells the swimmer that she can give Squirtle a better life. Kurisu leaves and hopes Mimi gets cancer.

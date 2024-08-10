@@ -17,6 +17,7 @@ Arthur Fontaine (75), the current head of the Fontaine family, is the most senio
 
 As the current head of the Fontaine family, Arthur maintains the family's business empire in fields such as agriculture, pharmaceuticals, and consumer goods. However, the family's biggest source of income is their fossil energy business which has become one of the world's biggest providers of fossil energy.
 
+- Alcon Industries (leading eco-tech corporation) (Hoppip advertisement)
 - Fossil Oil (largest fossil fuel producer) (Tyrantrum and Aerodactyl advertisement)
 - Blue Seedot Agriculture (influential pharmaceutical company)
 - Thwack (beverage company) (Hitmonchan advertisement)

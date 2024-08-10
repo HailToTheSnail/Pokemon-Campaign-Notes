@@ -53,4 +53,19 @@ tags:
 
 
 ## Notes
+- How To Update Notes To Website:
+	- cd C:\Users\Snail\source\repos\Pokemon-Campaign-Notes 
+	- npx quartz sync
 - Write more about Edrian culture and history, as well as Pokedex to know what Route a Pokemon is and behaviours
+- Tentacool that knows Gum Gum Gatling.
+- Duality - A concept that is defined by the relative position of two similar realities, existing in the same timeline but two different instances of reality.
+- Incursion - An cataclysmic event that occurs when the boundary between two universes erodes and they collide, destroying one or both entirely.
+	- Duality Incursion Event?
+- Character Overworld Sprites -
+	- MBCMechachu - https://www.deviantart.com/mbcmechachu/favourites/56791693/pokemon-overworld-trainers-and-pokemon
+	- Wergan - https://www.deviantart.com/wergan/gallery/all
+	- Zender1752 - https://www.deviantart.com/zender1752/gallery/59258101/overworld-sprites 
+- OST Music Emporium - 
+	- Baldur's Gate 3 - https://www.youtube.com/watch?v=Vofkw9-O18c&list=PLi1CK-rsvz1Nfz83RMBp_9YaIgBWd0l9x
+	- Oppenheimer - https://www.youtube.com/watch?v=inQgO0a6rGE&list=PLDisKgcnAC4QJDGcv7BafiO3tqpRYrTXe
+	- Studio Matcha JP - https://www.youtube.com/@Studio_Matcha/videos
