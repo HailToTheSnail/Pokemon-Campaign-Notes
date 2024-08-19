@@ -36,13 +36,25 @@ tags:
 ## Fakémon
 - [Anvulcan](https://www.instagram.com/p/CF-aNcrjiYc/?epik=dj0yJnU9enlqV01sUjVXNEQ5cEdFLXQ2R3RwaDJEYVVQZnM4eGYmcD0wJm49MGZyU3VqcU9TaTlfSmUweGMwWUN5dyZ0PUFBQUFBR2JESGRr), the Forge Pokémon  - Steel/Fire
 	- Living high in the mountains, this Pokémon devours coal to maintain its internal body temperature of about 2,000 degrees C. Any raw metal it chews on melts in its mouth under the extreme heat. This behavior, to many metallurgists’ delight, has been found to perfectly temper iron and steel.
-- 
+- [Drageraph](https://ca.pinterest.com/pin/433893745359347387/), the Angel Pokémon - Dragon/Fairy
+	- Drageraph are the true evolution of Dragonair and are a rare and beautiful sight to behold. It is said that if you see this Pokémon flying overhead, you will live a long and prosperous life.
+- [Fairen](https://www.instagram.com/p/B5LS4TzihCp/?epik=dj0yJnU9RXNWanZaTE9qbm5qWkNJczljQ2FFeFoweTBKb0RvQzYmcD0wJm49c1lHbzJfWkZXeHhQX1YxcU9QQmUyZyZ0PUFBQUFBR2JES01B&img_index=1), the Heavenly Pixie Pokémon Fairy/Steel
+	- These Pokémon, despite their cute and cuddly appearance, love to fight, even with Pokémon that are much bigger than them. They are very rare but can be easily found on the highest peaks of the region.
+- [Falhalla](https://www.instagram.com/p/B5Nyw0TIQpE/?epik=dj0yJnU9cnZEMHJfdE5jSncyRHF5S1BnY2V1QWtrc1gzRVdZMmQmcD0wJm49RndUelNmRk9PQnBIZXlQYXNGSllyQSZ0PUFBQUFBR2JES0x3&img_index=1), the Blade Pokémon - Fairy/Steel
+	- These Pokémon are very fast and combative. It is said that the blade on their arm is so sharp and resistant, that it can even cut through large trees or rocks in the blink of an eye.
+- [Valkirien](https://www.instagram.com/p/B5QarepISB1/?epik=dj0yJnU9eW04d2VydUdCa1RVTlZhS1kwWk5LZnBHTFBoWE1FSUMmcD0wJm49R0JqdEJRaXoxWGswdHJkdnJwamN3USZ0PUFBQUFBR2JESkk4&img_index=1), the Sky Paladin Pokémon - Fairy/Steel
+	- The legends of Indalo say that these Pokémon guarded the very entrance to the Hall of Origin where Arceus slumbers. Despite their elegant appearance, this lethal Pokémon defends themselves and those they serve against attacks using the shield and then pierce their opponent with the sword attached to their other arm.
+- [Shadow Lugia](https://bulbapedia.bulbagarden.net/wiki/Shadow_Lugia) , the Diving Pokémon - Psychic/Flying (Lara/XD001)
+	- Lara was a young Lugia that was infected by the Negative Taint. She was captured at a young age, which was the reason for the natural destruction of numerous coastal cities at the hands of the mother Lugia. Caught by Cipher, they raised the Lugia in a lab where they were the first test subject of Project Shadow. A slave to Cipher, Lugia unwillingly did their bidding, robbed of their freedom and putting up a futile resistance. Eventually, Lara was freed from Cipher by Michael. Despite this, after nearly half a decade, the Lugia was captured once again by Providence.
+- [Hollow](https://hollowknight.fandom.com/wiki/Knight) - UB Knight, the Vessel Pokémon - Ghost/Dark
+	- Hollow are Ultra Beasts that  live in another world known as Hallownest. They are the discarded Vessels, beings of the Void, created by the Pale King as a means of stopping the Infection, an ancient sickness that led to the deaths of thousands of bugs and ultimately the ruination of the kingdom of Hallownest. Unworthy and incapable of achieving the goals set by the Pale King, these unwanted Vessels are left to wander the depths of the Abyss for eternity.
 
 ## History
 - **Chrovos:**
-    - In Sinnoh mythology, the Sinnoh people depict Arceus as the first being and creator of the universe. That isn't entirely true
+    - In Sinnoh mythology, the Sinnoh people depict Arceus as the first being and creator of the universe. That isn't entirely true as 
 - **Kaiju Trio:**
     - While the legends in Sinnoh depict Arceus creating Azelf (willpower), Uxie (knowledge), and Mesprit (emotion) after the Creation Trio, the truth is that the Origin Pokémon created another trio of Legendaries before the Lake Guardians. A prototype to Emotion, Knowledge, and Willpower. Concepts less refined jammed into vessels incapable of holding such vast abstractions. Courage, Power, and Wisdom. Diphisra, Infernagon, and Gamera.
+    - Afraid of the consequences 
     - Incapable of returning the concepts of Courage, Power, and Wisdom to the Void, Arceus instead sealed the Kaiju Trio away within the earth, sky and water of present-day Indalo. Having learnt better, the Origin Pokemon then took a small fraction of the Kaiju Trio's power and created Azelf (willpower), Uxie (knowledge), and Mesprit (emotion) and
 - **Earthbound Immortals (based on Nazca Lines):**
     - The Earthbound Immortals are six extremely powerful and dangerous Legendary Pokémon without sentience whose sole purpose is to maintain the seals that keep Chrovos from setting the Pokémon World aflame in chaos. They are sealed in geoglyphs across the Indalo region, some of which have been uncovered while others have been lost to time itself.
