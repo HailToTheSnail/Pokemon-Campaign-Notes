@@ -48,7 +48,7 @@ Al is a very sweet person who is both kind and patient. After having lived a rou
 
 ## Pokémon
 
-### [[Munchlax]]☆
+### [[Leon - Munchlax]]☆
 Munchlax has two favorite things in the entire world. His trainer and food. Although, food might inch ahead of his trainer if it really came down to it. The Big Eater Pokémon is simple-minded in his thoughts but has a big heart to compensate.
 
 ## Backstory

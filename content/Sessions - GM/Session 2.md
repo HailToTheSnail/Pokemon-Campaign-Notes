@@ -28,6 +28,7 @@ tags:
 	- Job: Trainer
 	- Affection: Neutral
 	- Voice and Inflection: confident and boisterous, trying to look cool in front of the younger kids
+	- Appearance: You see a young teen standing
 	- NPC Dialogue Lines (what they know):
 		- Dialogue 1: Introduces himself as Adolescent Joey and his two friends as Sammy and Samantha.
 		- Dialogue 2: He admits that he wants to become the bestest trainer in the world.
@@ -45,14 +46,14 @@ tags:
 | AC: 12         | Dark Vision: 30ft |                | Quick Attack (Normal) | Immunities: Ghost         |
 | Nature: Clumsy | Size: Tiny        | Proficiency: 2 | Bite (Dark)           | EXP Worth: 150            |
 
-| Spearow - Female | Type: Fighting   | Ability: Keen Eye | Moves:         | Held Items:                          |
-| ---------------- | ---------------- | ----------------- | -------------- | ------------------------------------ |
-| Lv: 1            | Walk Speed: 10ft | Insight +2        | Peck (Flying)  | Vulnerabilities: Electric, Ice, Rock |
-| HP: 16           | Fly Speed: 25ft  |                   | Growl (Normal) | Resistances: Bug, Grass              |
-| AC: 12           |                  |                   | Leer (Normal)  | Immunities: Ghost, Ground            |
-| Nature: Brave    | Size: Tiny       | Proficiency: 2    |                | EXP Worth: 40                        |
+| Spearow - Female | Type: Normal/Flying | Ability: Keen Eye | Moves:         | Held Items:                          |
+| ---------------- | ------------------- | ----------------- | -------------- | ------------------------------------ |
+| Lv: 1            | Walk Speed: 10ft    | Insight +2        | Peck (Flying)  | Vulnerabilities: Electric, Ice, Rock |
+| HP: 16           | Fly Speed: 25ft     |                   | Growl (Normal) | Resistances: Bug, Grass              |
+| AC: 12           |                     |                   | Leer (Normal)  | Immunities: Ghost, Ground            |
+| Nature: Brave    | Size: Tiny          | Proficiency: 2    |                | EXP Worth: 40                        |
 
-| Nidoran - Male   | Type: Fighting   | Ability: Poison Point | Moves:                 | Held Items:                                      |
+| Nidoran - Male   | Type: Poison     | Ability: Poison Point | Moves:                 | Held Items:                                      |
 | ---------------- | ---------------- | --------------------- | ---------------------- | ------------------------------------------------ |
 | Lv: 2            | Walk Speed: 20ft | Perception +2         | Peck (Flying)          | Vulnerabilities: Ground, Psychic                 |
 | HP: 22           |                  |                       | Leer (Normal)          | Resistances: Bug, Fairy, Fighting, Grass, Poison |

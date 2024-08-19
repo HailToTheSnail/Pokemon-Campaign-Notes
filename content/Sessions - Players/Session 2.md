@@ -19,10 +19,10 @@ tags:
 - When Mimi sees Kurisu dive into the small pond at the beginning of the route, she tries to sneak a candid photo of him. However, he hears her snap the photo and demands that she deletes it. She eventually does after a bit of convincing.
 - When the group stumbles upon a group of three kids, Kurisu recognizes the three of them as Adolescent Joey, Sammy, and Samantha and makes the first pee his pants when he makes the young kid remember how the swimmer bullied him two years ago. He then steals $150 Pokédollars and a Poké Ball from Adolescent Joey.
 - Seeing this happen right before his eyes, Al tries to stop Kurisu from intimidating the young kids, but the kids call him a hired thug which gives Al a far-away look as he remembers his less than reputable shameful history.
-- When neither Al or Mimi want to help Kurisu 
+- When neither Al or Mimi want to help Kurisu, the latter bribes Al's Munchlax, Leon, with 3 Camping Rations to join the battle. In addition, he offers Mimi with a limitless amount of candid shots with his consent to upload.
+- During the battle, Squirtle rushes at the Nidoran - Male, tucks into his shell and slams into the Poison-Type
+- After a brutal beatdown, Adolescent Joey, Samantha and Sammy are traumatized even further beyond what Kurisu had done prior to their battle. Kurisu gives Al 3 Camping Rations and the party earns 270 EXP (90 EXP each) from the battle.
 - 
-- Kurisu bribes Leon with 3 Camping Rations to join the battle and Mimi with unlimited video and photos with his consent to upload.
-- The three protagonists beat Adolescent Joey, Samantha and Sammy and traumatized them even more than Kurisu already had. They earn 270 EXP (90 EXP each) and Kurisu gives Al 3 Camping Rations.
 - Traumatized Samantha and Sammy by injuring their Pokemon, Squirtle broke off one of Nidoran's horns and embedded into its side. Leon slammed the Spearow into the ground bursting the berry he had on him, making it look like Spearow died. 
 - After the battle, Kurisu gives Adolescent Joey a Poké Ball, inspiring/intimidating the poor boy into meeting Kurisu in the Zircon Conference at the end of the year.
 - The group returns to the Pokémon Lab with Joey and co in tow to heal their Pokémon.
