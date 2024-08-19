@@ -84,6 +84,9 @@ tags:
     - MBCMechachu - [https://www.deviantart.com/mbcmechachu/favourites/56791693/pokemon-overworld-trainers-and-pokemon](https://www.deviantart.com/mbcmechachu/favourites/56791693/pokemon-overworld-trainers-and-pokemon)
     - Wergan - [https://www.deviantart.com/wergan/gallery/all](https://www.deviantart.com/wergan/gallery/all)
     - Zender1752 - [https://www.deviantart.com/zender1752/gallery/59258101/overworld-sprites](https://www.deviantart.com/zender1752/gallery/59258101/overworld-sprites)
+- Fakemon Sprites -
+	- PragMagik -
+	 https://www.youtube.com/watch?app=desktop&v=dJ3gSPPfu-o 
 - OST Music Emporium -
     - Baldur's Gate 3 - [https://www.youtube.com/watch?v=Vofkw9-O18c&list=PLi1CK-rsvz1Nfz83RMBp_9YaIgBWd0l9x](https://www.youtube.com/watch?v=Vofkw9-O18c&list=PLi1CK-rsvz1Nfz83RMBp_9YaIgBWd0l9x)
     - Oppenheimer - [https://www.youtube.com/watch?v=inQgO0a6rGE&list=PLDisKgcnAC4QJDGcv7BafiO3tqpRYrTXe](https://www.youtube.com/watch?v=inQgO0a6rGE&list=PLDisKgcnAC4QJDGcv7BafiO3tqpRYrTXe)

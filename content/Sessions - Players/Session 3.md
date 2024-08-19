@@ -26,4 +26,5 @@ tags:
 - At the end of the battle, . The party earns 600 EXP (200 EXP each) from the battle.
 - Nickit #2 runs off after thinking Benjamin killed himself.
 - Party finds in Benjamin's Nickit Burrow $900, 2 Greatballs, and an Everstone
-- Michaela meets a
+- Charles butchers the Nickit and turn them into a hotpot meat with his expert cooking prep skills. Al congratulates Leon for listening to him and doing a good job.
+- Michaela meets a Gastly who licks her face and paralyzes her, laughing before disappearing.
