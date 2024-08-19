@@ -29,6 +29,9 @@ tags:
         - **Rocket Providence:** With Giovanni having killed off the Partners of Providence, he has taken over the shadow cabal with powerful allies that he has recruited over the years, such as Alexander "Lex" Stone and Champion Cadence. Find a way to stop Rocket Providence and defeat Giovanni.
 - **What Makes A King (Kurisu Quest Thread):** After learning from a that his Seadra can evolve once more, Kurisu embarks on a quest to gather six Marks of Fealty from Pokémon from all over the Indalo region.
 
+## Organizations
+- The Kingsman Secret Service is a secret organization that works directly for the Crown. They function as secret agents that do everything in their power to keep Indalo safe. They are highly-trained agents with a partner Pokèmon and each have code names based on the Knights of the Round Table.
+
 ## NPCs
 - Kamille has become Instagram famous.
 - Garibaldi - strongest trainer or Fakemon (on par with Bidoof)
@@ -48,6 +51,7 @@ tags:
 	- Lara was a young Lugia that was infected by the Negative Taint. She was captured at a young age, which was the reason for the natural destruction of numerous coastal cities at the hands of the mother Lugia. Caught by Cipher, they raised the Lugia in a lab where they were the first test subject of Project Shadow. A slave to Cipher, Lugia unwillingly did their bidding, robbed of their freedom and putting up a futile resistance. Eventually, Lara was freed from Cipher by Michael. Despite this, after nearly half a decade, the Lugia was captured once again by Providence.
 - [Hollow](https://hollowknight.fandom.com/wiki/Knight) - UB Knight, the Vessel Pokémon - Ghost/Dark
 	- Hollow are Ultra Beasts that  live in another world known as Hallownest. They are the discarded Vessels, beings of the Void, created by the Pale King as a means of stopping the Infection, an ancient sickness that led to the deaths of thousands of bugs and ultimately the ruination of the kingdom of Hallownest. Unworthy and incapable of achieving the goals set by the Pale King, these unwanted Vessels are left to wander the depths of the Abyss for eternity.
+- Pokemon with a missing eye that player catches gets a glass eye and bobs head left and right whenever they are going to attack to get a better depth perception for an attack on a target.
 
 ## History
 - **Chrovos:**
