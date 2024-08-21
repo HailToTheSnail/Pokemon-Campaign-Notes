@@ -93,6 +93,7 @@ tags:
 - Apparent Horizon - the outer boundary of an event horizon that can still be escaped or returned if acted upon quickly.
 - Singularity - the center of an event horizon and root cause of the situation. The paradox of a space anomaly or a time distortion.
 - Observable Universe - the distance of the universe that can be seen from the surface of the Pokémon World with telescopes.
+- British Slang for Sir Gareth - watch Kingsman Secret Service movie
 - Character Overworld Sprites -
     - MBCMechachu - [https://www.deviantart.com/mbcmechachu/favourites/56791693/pokemon-overworld-trainers-and-pokemon](https://www.deviantart.com/mbcmechachu/favourites/56791693/pokemon-overworld-trainers-and-pokemon)
     - Wergan - [https://www.deviantart.com/wergan/gallery/all](https://www.deviantart.com/wergan/gallery/all)
