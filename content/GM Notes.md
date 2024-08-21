@@ -31,7 +31,9 @@ tags:
 
 ## Organizations
 - The Kingsman Secret Service is a secret organization that works directly for the Crown. They function as secret agents that do everything in their power to keep Indalo safe. They are highly-trained agents with a partner Pokèmon and each have code names based on the Knights of the Round Table.
-
+	- All Kingsman agents are supported by two individuals known by the code-names "Merlin" and "Morgana" in reference to Merlin the Wizard and Morgana le Fay, who oversees the agency support staff, formulates field strategies, trains prospective recruits and provides technological/IT assistance as necessary.
+	- Each Kingsman has a signet ring that identifies them as a Kingsman.
+	- Each of the Kingsman are born off high society, save the one probationary member, Sir Gareth, who the party run into. He was taken off the streets by Sir Gaheris and given a chance to become a member of Kingsman.
 ## NPCs
 - Kamille has become Instagram famous.
 - Garibaldi - strongest trainer or Fakemon (on par with Bidoof)
