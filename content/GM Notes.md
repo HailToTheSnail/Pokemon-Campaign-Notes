@@ -52,9 +52,11 @@ tags:
 	- Lara was a young Lugia that was infected by the Negative Taint. She was captured at a young age, which was the reason for the natural destruction of numerous coastal cities at the hands of the mother Lugia. Caught by Cipher, they raised the Lugia in a lab where they were the first test subject of Project Shadow. A slave to Cipher, Lugia unwillingly did their bidding, robbed of their freedom and putting up a futile resistance. Eventually, Lara was freed from Cipher by Michael. Despite this, after nearly half a decade, the Lugia was captured once again by Providence.
 - [Hollow](https://hollowknight.fandom.com/wiki/Knight) - UB Knight, the Vessel Pokémon - Ghost/Dark
 	- Hollow are Ultra Beasts that  live in another world known as Hallownest. They are the discarded Vessels, beings of the Void, created by the Pale King as a means of stopping the Infection, an ancient sickness that led to the deaths of thousands of bugs and ultimately the ruination of the kingdom of Hallownest. Unworthy and incapable of achieving the goals set by the Pale King, these unwanted Vessels are left to wander the depths of the Abyss for eternity.
-- Pokemon with a missing eye that player catches gets a glass eye and bobs head left and right whenever they are going to attack to get a better depth perception for an attack on a target.
+- Pokémon with a missing eye that player catches gets a glass eye and bobs head left and right whenever they are going to attack to get a better depth perception for an attack on a target.
+- Strong non-Legendary Pokémon that has the ability Desolate Land or Primordial Sea.
 
 ## Abilities
+- **Gravity Down:** At the start of each turn, it pulls every Pokémon down to the ground, reducing the foe's Speed stat by one. Pokémon cannot flee or switch. In addition, Flying-Type Pokémon or Pokémon with the Ability Levitate, lose their Immunity to Ground-Type Moves. Flying-Type Moves have no effect while this Pokémon is on the field.
 - **Spectral Grasp:** Physical Moves have a 30% chance to disable the opponent's last used Move for 2 turns.
 
 ## History
