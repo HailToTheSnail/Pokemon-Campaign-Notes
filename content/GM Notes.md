@@ -35,6 +35,7 @@ tags:
 ## NPCs
 - Kamille has become Instagram famous.
 - Garibaldi - strongest trainer or Fakemon (on par with Bidoof)
+	- "I am inevitable."
 
 ## Fakémon
 - [Anvulcan](https://www.instagram.com/p/CF-aNcrjiYc/?epik=dj0yJnU9enlqV01sUjVXNEQ5cEdFLXQ2R3RwaDJEYVVQZnM4eGYmcD0wJm49MGZyU3VqcU9TaTlfSmUweGMwWUN5dyZ0PUFBQUFBR2JESGRr), the Forge Pokémon  - Steel/Fire
@@ -52,6 +53,9 @@ tags:
 - [Hollow](https://hollowknight.fandom.com/wiki/Knight) - UB Knight, the Vessel Pokémon - Ghost/Dark
 	- Hollow are Ultra Beasts that  live in another world known as Hallownest. They are the discarded Vessels, beings of the Void, created by the Pale King as a means of stopping the Infection, an ancient sickness that led to the deaths of thousands of bugs and ultimately the ruination of the kingdom of Hallownest. Unworthy and incapable of achieving the goals set by the Pale King, these unwanted Vessels are left to wander the depths of the Abyss for eternity.
 - Pokemon with a missing eye that player catches gets a glass eye and bobs head left and right whenever they are going to attack to get a better depth perception for an attack on a target.
+
+## Abilities
+- **Spectral Grasp:** Physical Moves have a 30% chance to disable the opponent's last used Move for 2 turns.
 
 ## History
 - **Chrovos:**
