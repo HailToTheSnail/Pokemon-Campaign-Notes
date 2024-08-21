@@ -34,6 +34,7 @@ tags:
 	- All Kingsman agents are supported by two individuals known by the code-names "Merlin" and "Morgana" in reference to Merlin the Wizard and Morgana le Fay, who oversees the agency support staff, formulates field strategies, trains prospective recruits and provides technological/IT assistance as necessary.
 	- Each Kingsman has a signet ring that identifies them as a Kingsman.
 	- Each of the Kingsman are born off high society, save the one probationary member, Sir Gareth, who the party run into. He was taken off the streets by Sir Gaheris and given a chance to become a member of Kingsman.
+		- Sir Gareth (22) loathes the snobbish attitude his peers have towards him due to his pedigree. He tolerates many of the insults thrown his way but will vehemently defend Sir Geheris if his character is slandered. He sees Sir Gaheris as the only family he has and wants to make him proud by proving his worth to the Kingsman Agency. However, he would forsake the mission if it meant keeping Sir Gaheris safe.
 ## NPCs
 - Kamille has become Instagram famous.
 - Garibaldi - strongest trainer or Fakemon (on par with Bidoof)
