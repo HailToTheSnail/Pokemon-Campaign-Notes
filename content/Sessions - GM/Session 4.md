@@ -19,5 +19,40 @@ tags:
 
 ## Descriptions and Details
 
-
 ## NPCs Encounters
+
+## Planned Encounters
+
+### Rampaging Hippowdon 
+
+| Hippowdon          | Type: Ground     | Ability: N/A   | Moves:                | Held Items: N/A           |
+| ------------------ | ---------------- | -------------- | --------------------- | ------------------------- |
+| Lv: 2              | Walk Speed: 30ft | Persuasion +5  | Quick Attack (Normal) | Vulnerabilities: Fighting |
+| HP: 30             | Swim Speed: 15ft |                | Hone Claws (Dark)     | Resistances: N/A          |
+| AC: 12             |                  |                | Tackle (Normal)       | Immunities: Ghost         |
+| Nature: Vindictive | Size: Medium     | Proficiency: 2 |                       | EXP Worth: 360            |
+
+| Nickit - Male  | Type: Dark        | Ability: Unburden  | Moves:                | Held Items: N/A                       |
+| -------------- | ----------------- | ------------------ | --------------------- | ------------------------------------- |
+| Lv: 2          | Walk Speed: 30ft  | Sleight of Hand +5 | Quick Attack (Normal) | Vulnerabilities: Bug, Fighting, Fairy |
+| HP: 20         | Dark Vision: 30ft | Stealth +5         | Tail Whip (Normal)    | Resistances: Dark, Ghost              |
+| AC: 11         |                   |                    | Hone Claws (Dark)     | Immunities:Psychic                    |
+| Nature: Clumsy | Size: Tiny        | Proficiency: 2     | Beat Up (Dark)        | EXP Worth: 80                         |
+
+### Route 2 Pokémon
+
+|Nickit - Female|Type: Dark|Ability: Unburden|Moves:|Held Items: N/A|
+|---|---|---|---|---|
+|Lv: 2|Walk Speed: 30ft|Sleight of Hand +3|Quick Attack (Normal)|Vulnerabilities: Bug, Fighting, Fairy|
+|HP: 22|Dark Vision: 30ft|Stealth +3|Tail Whip (Normal)|Resistances: Dark, Ghost|
+|AC: 11|||Snarl (Dark)|Immunities:Psychic|
+|Nature: Apathetic|Size: Tiny|Proficiency: 2|Beat Up (Dark)|EXP Worth: 80|
+
+|Nickit - Male|Type: Dark|Ability: Unburden|Moves:|Held Items: N/A|
+|---|---|---|---|---|
+|Lv: 1|Walk Speed: 30ft|Sleight of Hand +5|Quick Attack (Normal)|Vulnerabilities: Bug, Fighting, Fairy|
+|HP: 15|Dark Vision: 30ft|Stealth +5|Tail Whip (Normal)|Resistances: Dark, Ghost|
+|AC: 11||||Immunities:Psychic|
+|Nature: Hasty|Size: Tiny|Proficiency: 2||EXP Worth: 40|
+
+## Notes

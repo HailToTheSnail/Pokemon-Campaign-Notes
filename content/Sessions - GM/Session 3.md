@@ -37,12 +37,19 @@ tags:
 
 ### Benjamin, King of the Nickit
 
-|Nickit - Male|Type: Dark|Ability: Unburden|Moves:|Held Items: N/A|
-|---|---|---|---|---|
-|Lv: 2|Walk Speed: 30ft|Sleight of Hand +5|Quick Attack (Normal)|Vulnerabilities: Bug, Fighting, Fairy|
-|HP: 20|Dark Vision: 30ft|Stealth +5|Tail Whip (Normal)|Resistances: Dark, Ghost|
-|AC: 11|||Hone Claws (Dark)|Immunities:Psychic|
-|Nature: Clumsy|Size: Tiny|Proficiency: 2|Beat Up (Dark)|EXP Worth: 80|
+| Benjamin - Male    | Type: Human      | Ability: N/A   | Moves:                | Held Items: N/A           |
+| ------------------ | ---------------- | -------------- | --------------------- | ------------------------- |
+| Lv: 2              | Walk Speed: 30ft | Persuasion +5  | Quick Attack (Normal) | Vulnerabilities: Fighting |
+| HP: 30             | Swim Speed: 15ft |                | Hone Claws (Dark)     | Resistances: N/A          |
+| AC: 12             |                  |                | Tackle (Normal)       | Immunities: Ghost         |
+| Nature: Vindictive | Size: Medium     | Proficiency: 2 |                       | EXP Worth: 360            |
+
+| Nickit - Male  | Type: Dark        | Ability: Unburden  | Moves:                | Held Items: N/A                       |
+| -------------- | ----------------- | ------------------ | --------------------- | ------------------------------------- |
+| Lv: 2          | Walk Speed: 30ft  | Sleight of Hand +5 | Quick Attack (Normal) | Vulnerabilities: Bug, Fighting, Fairy |
+| HP: 20         | Dark Vision: 30ft | Stealth +5         | Tail Whip (Normal)    | Resistances: Dark, Ghost              |
+| AC: 11         |                   |                    | Hone Claws (Dark)     | Immunities:Psychic                    |
+| Nature: Clumsy | Size: Tiny        | Proficiency: 2     | Beat Up (Dark)        | EXP Worth: 80                         |
 
 |Nickit - Female|Type: Dark|Ability: Unburden|Moves:|Held Items: N/A|
 |---|---|---|---|---|
