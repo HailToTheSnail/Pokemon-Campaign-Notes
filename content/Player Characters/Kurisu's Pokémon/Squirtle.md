@@ -20,4 +20,11 @@ After having donned his iconic stolen shades, Squirtle has become the coolest of
 - 1x Potion
 
 ## Notes
+- Squirtle lives by the Thieves Code of Honor:
+	1. Don't get caught - Always remain undetected, never get caught.
+	2. Never kill indiscriminately - Unless your life is being threatened, never kill a person or Pokémon. Taking a life should never be a necessary factor of any plan.
+	3. Don't steal from a fellow thief - If you come across a fellow thief or their stash, do not take what you wouldn't want taken from you.
+	4. Secrecy leads to longevity - Never share your trade secrets unless it is to pass down the knowledge to an apprentice or a fellow disciple.
+	5. Never interfere - A thief never interferes in the score of another thief, unless asked for assistance and proper terms and compensations are set.
+	6. No stealing from the poor - Do not take from those that have little to give. Be kind to the poor and they will return the favor in kind.
 - At any time anything precious is within grabbing reach, Squirtle will attempt to pocket the shiny object.

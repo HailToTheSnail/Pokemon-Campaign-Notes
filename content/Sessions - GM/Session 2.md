@@ -89,12 +89,12 @@ tags:
 | AC: 13          |                     |                   |                 | Immunities: Ghost, Ground            |
 | Nature: Hardy   | Size: Tiny          | Proficiency: 2    |                 | EXP Worth: 40                        |
 
-| Sandshrew - Male | Type: Ground     | Ability: Sand Veil | Moves:                | Held Items:                        |
-| ---------------- | ---------------- | ------------------ | --------------------- | ---------------------------------- |
-| Lv: 2            | Walk Speed: 20ft | Athletics +4       | Peck (Flying)         | Vulnerabilities: Grass, Ice, Water |
-| HP: 16           | Dig Speed: 15ft  |                    | Defense Curl (Normal) | Resistances: Poison, Rock          |
-| AC: 14           |                  |                    | Sand Attack (Ground)  | Immunities:Electric                |
-| Nature: Innocent | Size: Tiny       | Proficiency: 2     | Rollout (Rock)        | EXP Worth: 160                     |
+| Sandshrew - Male | Type: Ground       | Ability: Sand Veil | Moves:                | Held Items:                        |
+| ---------------- | ------------------ | ------------------ | --------------------- | ---------------------------------- |
+| Lv: 2            | Walk Speed: 20ft   | Athletics +4       | Peck (Flying)         | Vulnerabilities: Grass, Ice, Water |
+| HP: 16           | Burrow Speed: 15ft |                    | Defense Curl (Normal) | Resistances: Poison, Rock          |
+| AC: 14           |                    |                    | Sand Attack (Ground)  | Immunities:Electric                |
+| Nature: Innocent | Size: Tiny         | Proficiency: 2     | Rollout (Rock)        | EXP Worth: 160                     |
 ## Notes
 - Mimi gets Leon to take photos in front of a white flower for her PokéSnap.
 - Mimi tries to get a candid photo of Kurisu but 

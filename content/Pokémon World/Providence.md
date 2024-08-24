@@ -90,7 +90,7 @@ During a gala event held by a major asset of Providence, Pelipper Global, Inc., 
 
 ## Operatives/Organizations
 
-### Champion Cadence
+### Champion Cadence - Indalo Champion
 
 Cadence (26) is the Champion of the Indalo region and an Operative of Providence. He is the kind, compassionate and loved sweetheart of the Indalo people and has kept his seat as Champion for over a decade. Cadence is the leading voice for just reformations in the Indalo government and has quickly garnered strong support from many influential political figures, such as Vanway Hister, in the past decade. 
 
@@ -106,7 +106,7 @@ After joining Providence as an Operative, Cadence had the full support of the sh
 - Machamp (Male) (Fighting-Type) - Machamp is the current holder of the 
 - Tyranitar (Female) (Rock/Dark-Type) - 
 
-### Alexander "Lex" Stone
+### Alexander "Lex" Stone - Hoenn Mafioso Enforcer
 ![[Alexander 'Lex' Stone (27px).png]]
 Alexander "Lex" Stone is the second son of the president of Devon Corporation, Joseph Stone, and an Operative of Providence. 
 Born as the second son of Joseph Stone, president of Devon Corporation
@@ -119,10 +119,15 @@ Born as the second son of Joseph Stone, president of Devon Corporation
 - Weavile - 
 - Zoroark - 
 
-### Researcher Orden
+### Researcher Orden - Assistant of Professor Stephen
 ![[Researcher Orden (28px).png]]
 Researcher Orden is the primary assistant of Professor Stephen and an Operative of Providence. He is an arrogant man 
 Obnoxious and arrogant to those he sees beneath them but subservient to those above him.
+
+### Benjamin - Leader of Primal Sect
+Benjamin is a recurring
+
+#### Primal Sect
 
 ### Ichiban Yamazaki/Kanto Yakuza
 The Kanto Yakuza is a crime syndicate led by Ichiban Yamazaki with approximately 3,400 members. They are based in the Kanto region, and were one of the first criminal organizations to begin operating in other regions. Some time after the crime syndicate's inception, Ichiban Yamazaki became an operative of Providence with the Kanto Yakuza becoming an affiliated organization to the shadow cabal.
