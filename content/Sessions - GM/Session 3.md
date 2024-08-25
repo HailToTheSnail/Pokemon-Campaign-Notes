@@ -87,9 +87,10 @@ tags:
 - Mimi starts filming the entire thing. However, when Benjamin is exposed and is down, Kurisu goes up to Ben and spits on him, telling him how terrible he is.
 - Ben snaps and rips off his clothes, revealing a Nickit suit underneath. They're then ambushed by a group of Nickit and prepare for battle.
 - Charles chucks two Nickit into the river and Squirtle decides to save them because of his Thieves Code of Honor.
+- Al punches Kurisu in the face to knock him out when Al threw Ben off the bridge. While Ben was hanging on, Kurisu was throwing insults at him.
 - Ben befriends Al before throwing himself off the bridge. "Maybe in another world, we could've been friends. Thank you, Al. I am one with nature."
 - Al technically killed Ben by pushing him off the bridge in the first place. He gets this far-away look, thinking back to his days in the underworld.
-- At the end of the battle, the party earns 600 EXP (200 EXP each) from the battle.
+- At the end of the battle, the party earns 600 EXP (200 EXP each) from the battle. The party scanned Nickit.
 - Nickit #2 runs off after thinking Benjamin killed himself.
 - Party finds in Benjamin's Nickit Burrow $900, 2 Greatballs, and an Everstone
 - Charles butchers the Nickit and turn them into a hotpot meat with his expert cooking prep skills. Al congratulates Leon for listening to him and doing a good job.

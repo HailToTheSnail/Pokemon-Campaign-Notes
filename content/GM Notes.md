@@ -86,6 +86,8 @@ tags:
     - npx quartz sync
 - Write more about Edrian culture and history, as well as Pokédex to know what Route a Pokemon is and behaviours
 - Tentacool that knows Gum Gum Gatling.
+- Quick Withdraw - One you learn about the tech, you can use a bonus action to quick switch.
+- Pokedex have a max range of 30ft.
 - Duality - A concept that is defined by the relative position of two similar realities, existing in the same timeline but two different instances of reality.
 - Incursion - An cataclysmic event that occurs when the boundary between two universes erodes and they collide, destroying one or both entirely.
     - Duality Incursion Event?

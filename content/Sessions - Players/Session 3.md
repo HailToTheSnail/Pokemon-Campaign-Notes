@@ -23,7 +23,7 @@ tags:
 - Mimi starts filming the entire thing, but Benjamin
 - Ben befriends Al before throwing himself off the bridge. "Maybe in another world, we could've been friends. Thank you, Al. I am one with nature."
 - Al technically killed Ben 
-- At the end of the battle, . The party earns 600 EXP (200 EXP each) from the battle.
+- At the end of the battle, the party earns 600 EXP (200 EXP each) from the battle.
 - Nickit #2 runs off after thinking Benjamin killed himself.
 - Party finds in Benjamin's Nickit Burrow $900, 2 Greatballs, and an Everstone
 - Charles butchers the Nickit and turn them into a hotpot meat with his expert cooking prep skills. Al congratulates Leon for listening to him and doing a good job.

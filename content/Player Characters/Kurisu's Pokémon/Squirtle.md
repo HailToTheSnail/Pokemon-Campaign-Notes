@@ -18,6 +18,7 @@ After having donned his iconic stolen shades, Squirtle has become the coolest of
 | Nature: Energetic | Size: Tiny       | Proficiency: 2     |                    | EXP: 200                             |
 ## Inventory
 - 1x Potion
+- 1x Whiteboard & Pink Marker
 
 ## Notes
 - Squirtle lives by the Thieves Code of Honor:
@@ -27,4 +28,5 @@ After having donned his iconic stolen shades, Squirtle has become the coolest of
 	4. Secrecy leads to longevity - Never share your trade secrets unless it is to pass down the knowledge to an apprentice or a fellow disciple.
 	5. Never interfere - A thief never interferes in the score of another thief, unless asked for assistance and proper terms and compensations are set.
 	6. No stealing from the poor - Do not take from those that have little to give. Be kind to the poor and they will return the favor in kind.
+	7. Ride or die - Stick by your comrades, if you have any, whenever possible
 - At any time anything precious is within grabbing reach, Squirtle will attempt to pocket the shiny object.

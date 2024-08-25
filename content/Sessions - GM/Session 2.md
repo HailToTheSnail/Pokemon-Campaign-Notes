@@ -97,7 +97,7 @@ tags:
 | Nature: Innocent | Size: Tiny         | Proficiency: 2     | Rollout (Rock)        | EXP Worth: 160                     |
 ## Notes
 - Mimi gets Leon to take photos in front of a white flower for her PokéSnap.
-- Mimi tries to get a candid photo of Kurisu but 
+- Mimi tries to get a candid photo of Kurisu but he notices and gets her to delete it.
 - Kurisu scared Joey and made him pee his pants then took \$150 from Adolescent Joey.
 - Al tried to stop it but was called a hired thug of Kurisu's and was super effective psychological damage due to his backstory.
 - Kurisu bribes Leon with 3 Camping Rations to join the battle and Mimi with unlimited video and photos with his consent to upload.
