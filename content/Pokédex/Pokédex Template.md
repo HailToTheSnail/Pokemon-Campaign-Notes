@@ -3,6 +3,7 @@ title: Pokédex Template
 draft: true
 tags:
 ---
+
 ## Statistics
 - Pokédex Number:
 - Type:
