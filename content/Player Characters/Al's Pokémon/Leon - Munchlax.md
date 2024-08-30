@@ -3,7 +3,7 @@ title: Munchlax
 draft: false
 tags:
 ---
-![[1. Munchlax.png]]
+![[1. Leon - Munchlax.png]]
 ## Description
 Leon is Al's first Pokémon and someone that he holds dear for helping him rediscover his dream. The Big Eater Pokémon is a teal and cream creature with big, round eyes, large pointy ears, and two pointy teeth that stick out of his mouth even when closed. He has two five-fingered hands and two cream feet with three clawed toes that are hidden behind fur that drapes down to the ground. He is often seen with crumbs on his face and wears a thick orange cloth around his neck which he also doubles as a bib.
 

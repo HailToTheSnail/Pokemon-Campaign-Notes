@@ -1,11 +1,11 @@
 ---
-title: 019 - Rattata
+title: "#0019 - Rattata"
 draft: false
 tags:
 ---
-![[019. Rattata.png]]
+![[0019. Rattata.png]]
 ## Statistics
-- Pokédex Number: 019
+- Pokédex Number: #0019
 - Type: Normal-Type
 - Height: 0'8" to 1'2" | 0.24m to 0.36m
 - Weight: 4.6lbs to 10.7lbs | 2kgs to 4.9kgs

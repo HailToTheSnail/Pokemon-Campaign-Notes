@@ -1,11 +1,11 @@
 ---
-title: 027 - Sandshrew
+title: "#0027 - Sandshrew"
 draft: false
 tags:
 ---
-![[027. Sandshrew.png]]
+![[0027. Sandshrew.png]]
 ## Statistics
-- Pokédex Number: 027
+- Pokédex Number: #0027
 - Type: Ground-Type
 - Height: 1'6" to 2'4" | 0.48m to 0.73m
 - Weight: 15.9lbs to 37.1lbs | 7.2kgs to 16.9kgs

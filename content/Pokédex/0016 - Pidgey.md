@@ -1,11 +1,11 @@
 ---
-title: "#016 - Pidgey"
+title: "#0016 - Pidgey"
 draft: false
 tags:
 ---
-![[016. Pidgey.png]]
+![[0016. Pidgey.png]]
 ## Statistics
-- Pokédex Number: 016
+- Pokédex Number: #0016
 - Type: Normal/Flying-Type
 - Height: 0'8" to 1'2" | 0.24m to 0.36m
 - Weight: 2.4lbs to 5.6lbs | 1kg to 2.5kgs

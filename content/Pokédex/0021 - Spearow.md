@@ -1,11 +1,11 @@
 ---
-title: 021 - Spearow
+title: "#0021 - Spearow"
 draft: false
 tags:
 ---
-![[021. Spearow.png]]
+![[0021. Spearow.png]]
 ## Statistics
-- Pokédex Number: 019
+- Pokédex Number: #0021
 - Type: Normal/Flying-Type
 - Height: 0'8" to 1'2" | 0.24m to 0.36m
 - Weight: 2.6lbs to 6.2lbs | 1.2kgs to 2.8kgs
