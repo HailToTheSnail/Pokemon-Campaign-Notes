@@ -7,7 +7,7 @@ tags:
 ## Statistics
 - Pokédex Number: #0027
 - Type: Ground-Type
-- Height: 1'6" to 2'4" | 0.48m to 0.73m
+- Height: 1'5" to 2'5" | 0.48m to 0.76m
 - Weight: 15.9lbs to 37.1lbs | 7.2kgs to 16.9kgs
 - Abilities: Sand Veil and Sand Rush
 - Egg Group: Field

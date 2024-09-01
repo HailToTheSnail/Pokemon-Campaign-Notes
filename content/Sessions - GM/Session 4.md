@@ -106,7 +106,8 @@ tags:
 - Mimi returns Snorunt and Kurisu returns Pidgey for the desert environment.
 - The party meet the Pokemon Ranger, Maraya, and she advises them to not cross Route 2 because of a rampaging Hippowdon. Kurisu remembers that Koa was killed by Hippowdon and is frightened by the prospect of meeting the Ground-Type. She also tells the group
 - Kurisu challenges Maraya to a battle to prove that they're capable enough to avoid and fend off the Hippowdon if needed. They stay conscious against Maraya's Pignite for 15 seconds.
-- Mimi recognizes that the deeper sand goes up to the waist (halves your speed) and tells the group about it.
+- When Ranger Maraya asks Kurisu to introduce her to the legendary retired Pokemon Ranger, Charles, the Future King of Water accuses her of not really wanting to get to know him. She apologizes if she made it seem like that and gives him her number with a tap of her Pokedex which Mimi calls rizz on the Rangers part.
+- While traveling through the desert, Mimi recognizes that the deeper sand goes up to the waist (halves your speed) and tells the group about it.
 - Kurisu, Mimi and Al notice two Diglett playing with some sand against the wall of a mountain. Mimi finds the perfect picture of the two Diglett's cuddling and posts it to Pokegram.
 - Mimi discovers a Fuecoco, gnawing on a rock and heads over to it. It burps up a hot rock and tries to give it to Mimi. She picks it up and burns her hands for 1 Dmg.
 - Kurisu sees a Hippopotas and chooses to go a different direction from the Hippopotas.
@@ -115,4 +116,4 @@ tags:
 - Kurisu gets bit in the ass by a Trapinch. He doesn't know what it is.
 - Mimi picks up Fuecoco and starts running. Her hair was singed by Fuecoco burping fire.
 - Al notices a defensive Sandile where he passed the Hippopotas.
--  Kurisu chooses to run with whatever is biting his ass. Al wants to perceive Kurisu's ass.
+- Kurisu chooses to run with whatever is biting his ass. Al wants to perceive Kurisu's ass.

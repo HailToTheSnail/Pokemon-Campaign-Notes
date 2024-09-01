@@ -64,22 +64,31 @@ tags:
 
 ## History
 - **Chrovos:**
-    - In Sinnoh mythology, the Sinnoh people depict Arceus as the first being and creator of the universe. That isn't entirely true as 
+    - In Sinnoh mythology, the Sinnoh people depict Arceus as the first being and creator of the universe. That isn't entirely true as Chaos, or better recognized as Chrovos, was a being that exceeded the universe and was the first being that created Arceus itself.
+    - Arceus sealed Chrovos away after they had created Earth, Pokemon, and Humans, and Chrovos wanted to annihilate life for existing in its chaos.
 - **Kaiju Trio:**
-    - While the legends in Sinnoh depict Arceus creating Azelf (willpower), Uxie (knowledge), and Mesprit (emotion) after the Creation Trio, the truth is that the Origin Pokémon created another trio of Legendaries before the Lake Guardians. A prototype to Emotion, Knowledge, and Willpower. Concepts less refined jammed into vessels incapable of holding such vast abstractions. Courage, Power, and Wisdom. Diphisra, Infernagon, and Gamera.
-    - Afraid of the consequences 
-    - Incapable of returning the concepts of Courage, Power, and Wisdom to the Void, Arceus instead sealed the Kaiju Trio away within the earth, sky and water of present-day Indalo. Having learnt better, the Origin Pokemon then took a small fraction of the Kaiju Trio's power and created Azelf (willpower), Uxie (knowledge), and Mesprit (emotion) and
+    - While the legends in Sinnoh depict Arceus creating Azelf (willpower), Uxie (knowledge), and Mesprit (emotion) after the Creation Trio, the truth is that the Origin Pokémon created another trio of Legendaries before the Lake Guardians. A prototype to Emotion, Knowledge, and Willpower. Concepts less refined jammed into vessels incapable of sustaining such vast abstractions. Courage, Power, and Wisdom. Diphisra, Infernagon, and Gamera.
+    - Incapable of returning the concepts of Courage, Power, and Wisdom to the Void, and afraid of the consequences, Arceus instead put the Kaiju Trio into a deep slumber within the earth, sky and water of present-day Indalo. 
+    - The Kaiju Trio were the gatekeepers of the Earthbound Immortals, seven extremely dangerous Legendary Pokemon who maintained the seals that kept Chrovos from escaping and sewing chaos across the Pokemon World.
+    - Having learnt better, the Origin Pokemon used the Kaiju Trio as a template for Azelf (willpower), Uxie (knowledge), and Mesprit (emotion) which were Pokemon capable of quelling the rage of the Creation Trio.
 - **Earthbound Immortals (based on Nazca Lines):**
-    - The Earthbound Immortals are six extremely powerful and dangerous Legendary Pokémon without sentience whose sole purpose is to maintain the seals that keep Chrovos from setting the Pokémon World aflame in chaos. They are sealed in geoglyphs across the Indalo region, some of which have been uncovered while others have been lost to time itself.
-    - One of the Kaiju Trio awaken whenever one of the Earthbound Immortals are set free and act as wardens of sorts to the otherwise walking disasters that are the Earthbound Immortals.
+    - The Earthbound Immortals are seven extremely powerful and dangerous Legendary Pokémon without sentience whose sole purpose is to maintain the seals that keep Chrovos from setting the Pokémon World aflame in chaos. They are sealed in geoglyphs across the Indalo region, some of which have been uncovered while others have been lost to time itself. Only six are known to history thought lost in the Lost Age, while a seventh exists that only a Kaiju could reveal.
+    - One of the Kaiju Trio awaken whenever one of the Earthbound Immortals are set free and are wardens to the otherwise walking disasters that are the Earthbound Immortals.
     - They are based on the [Nazca Lines](https://en.wikipedia.org/wiki/Nazca_lines) in the Nazca Desert in southern Peru.
-- **The Kingdom of Edria:**
-    - The Indalo region used to be recognized as the Kingdom of Edria by the Edrians, the people of Elkia, before most of their history was lost to the ravages of time save for a few murals left in locations of importance to the Kaiju Trio.
-
+- **The Continent of Edria:**
+    - The Indalo region used to be recognized as the Continent of Edria by the Edrians, the people of Edria, before most of their history was lost to the Lost Age save for a few temples and murals left in locations of importance to the Kaiju Trio.
+- **The Lost Age:**
+	- The Lost Age is a period of time with almost no recorded archaeological history. The events of this period are so important and relevant that by learning them, one is said to become capable of destroying the world.
+		- The Lost Age depicts a period of time in which people became aware of the Earthbound Immortals and a being of power higher than Arceus itself. Many people sought to make Chrovos' power there own and started freeing the Earthbound Immortals. Chaos was sewn across the Indalo Region and massive wars were fought by kings and queens racing for Chrovos' power.
+			- Chrovos' existence and power started spreading to humans, being who were capable of corruption, through dreams of them appearing as an infinite nebula of chaos (Works similar to the Radiance's).
+			- In the modern day, Chrovos' nebula touched the mind of Arthur Fontaine, and later, Giovanni Sakaki, influencing the two to pursue their power and free Chrovos, which led to Arthur Fontaine perceiving a hidden weapon within the Indalo Region.
+		- In the end, Arceus forced an end to conflict with the help of the Aura Guardians, a group of humans capable of tapping into the life essence that each Pokemon is born with, slaying the many rulers that incited the conflict and destroying any historical piece of evidence that mentions the Earthbound Immortals and Chrovos themselves. 
+			- The Aura Guardians then split up and traveled to set up bases across all regions in order to better protect the world as a whole. Almost every organization that fights the evil of the Pokemon World can draw their roots all the way back to the Aura Guardians: Aura Guardians, Division (Nikita), Kingsman (Kingsman Franchise), Pokemon Rangers
 ## Locations
+- Sky Kingdom - Kingdom in the sky in which humans have developed Pokemon abilities, which only a few humans have on the Surface; those with any amount of Aura have an affinity to a certain Type and are capable of using miniscule amounts of the Type, such as Psychics and Aura Masters.
 
 ## Quests
-
+- Pokemon Center Escape - Party feel safe in the Pokemon Center room but then the Pokemon Center is attacked by Providence. They have no Pokemon and need to escape downstairs to get their Pokeballs.
 ## Notes
 - How To Update Notes To Website:
     - cd C:\Users\Snail\source\repos\Pokemon-Campaign-Notes
