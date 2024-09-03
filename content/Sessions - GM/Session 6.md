@@ -24,7 +24,30 @@ tags:
 - 
 
 ## Planned Encounters
-- 
+
+### Anca Ruins - Enforcer Lex
+
+| Hydreigon - Male | Type: Fire/Fighting | Ability: Blaze | Moves:                | Held Items: N/A                                 |
+| ---------------- | ------------------- | -------------- | --------------------- | ----------------------------------------------- |
+| Lv: 15           | Walk Speed: 25ft    | Athletics +4   | Odor Sleuth (Normal)  | Vulnerabilities: Psychic, Flying, Ground, Water |
+| HP: 157          |                     |                | Defense Curl (Normal) | Resistances: Steel, Dark, Bug, Ice, Grass, Fire |
+| AC: 13           |                     |                | Ember (Fire)          | Immunities: N/A                                 |
+| Nature: Careful  | Size: Small         | Proficiency: 2 | Arm Thrust (Fighting) | EXP Worth: 1,000                                |
+### Inferno Cave
+- 1x Diglett
+- 2x Zubat
+- 4x Zubat
+- 1x Ferroseed
+- 1x Aron
+- 1x Geodude
+
+
+### Gym Leader Cadmus
+Has the Aerodactyl, which has grown somewhat.
+- Geodude
+- Dwebble
+- Tyrunt
+- Boldore
 
 ## Notes
 - 

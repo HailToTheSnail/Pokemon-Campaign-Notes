@@ -19,40 +19,17 @@ tags:
 
 ## Descriptions and Details
 - Anca Town:
-	- Getting up and dusting yourselves off, you
+	- Getting up and dusting yourselves off, you look up and see 
 
 ## NPCs Encounters
 - 
 
 ## Planned Encounters
 
-### Anca Ruins - Enforcer Lex
-
-| Hydreigon - Male | Type: Fire/Fighting | Ability: Blaze | Moves:                | Held Items: N/A                                 |
-| ---------------- | ------------------- | -------------- | --------------------- | ----------------------------------------------- |
-| Lv: 15           | Walk Speed: 25ft    | Athletics +4   | Odor Sleuth (Normal)  | Vulnerabilities: Psychic, Flying, Ground, Water |
-| HP: 157          |                     |                | Defense Curl (Normal) | Resistances: Steel, Dark, Bug, Ice, Grass, Fire |
-| AC: 13           |                     |                | Ember (Fire)          | Immunities: N/A                                 |
-| Nature: Careful  | Size: Small         | Proficiency: 2 | Arm Thrust (Fighting) | EXP Worth: 1,000                                |
-### Inferno Cave
-- 1x Diglett
-- 2x Zubat
-- 4x Zubat
-- 1x Ferroseed
-- 1x Aron
-- 1x Geodude
-
-
-### Gym Leader Cadmus
-Has the Aerodactyl, which has grown somewhat.
-- Geodude
-- Dwebble
-- Tyrunt
-- Boldore
-
+### N/A
 
 ## Notes
-- The party is chased out of Route 2 by the Hippowdon and off a cliffside into Anca Town.
+- The party is chased out of Route 2 by the Hippowdon and off a cliffside into Anca Town. The party earns 600 EXP (200 EXP each) for surviving the rampaging Hippowdon. 
 - When the party wake at the bottom of the cliffside, Al slaps Kurisu awake and notices the Trapinch attached to his friend's ass. He doesn't comment or tell Kurisu about it.
 - Mimi and Al drag Kurisu to the Pokemon Center to get checked up. 
 - Arrive at the Pokemon Center and Al tells Nurse Joy about Kurisu's injury.
