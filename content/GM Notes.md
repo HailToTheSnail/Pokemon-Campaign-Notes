@@ -28,9 +28,12 @@ tags:
     - **Providence Overthrown:** Having dealt with two of Providence's Partners, Gabrielle Mercer and Marcus Atwood, the only hurdle left to topple is Providence Partner, Arthur Fontaine. However, word has spread amongst the Underworld of new leadership within Providence. before you could do, he was betrayed by his Constant, who turned out to be the long disappeared leader of Team Rocket, Giovanni Sakaki. 
         - **Rocket Providence:** With Giovanni having killed off the Partners of Providence, he has taken over the shadow cabal with powerful allies that he has recruited over the years, such as Alexander "Lex" Stone and Champion Cadence. Find a way to stop Rocket Providence and defeat Giovanni.
 - **What Makes A King (Kurisu Quest Thread):** After learning from a that his Seadra can evolve once more, Kurisu embarks on a quest to gather six Marks of Fealty from Pokémon from all over the Indalo region.
+- **Earthbound Immortals:** Providence has uncovered
+	- 
+		- **Chrovos:** 
 
 ## Organizations
-- The Kingsman Secret Service is a secret organization that works directly for the Crown. They function as secret agents that do everything in their power to keep Indalo safe. They are highly-trained agents with a partner Pokèmon and each have code names based on the Knights of the Round Table.
+- The Kingsman Secret Service is a secret organization that works directly for the Crown. They function as secret agents that do everything in their power to keep Indalo safe. They are highly-trained agents with a partner Pokémon and each have code names based on the Knights of the Round Table.
 	- All Kingsman agents are supported by two individuals known by the code-names "Merlin" and "Morgana" in reference to Merlin the Wizard and Morgana le Fay, who oversees the agency support staff, formulates field strategies, trains prospective recruits and provides technological/IT assistance as necessary.
 	- Each Kingsman has a signet ring that identifies them as a Kingsman.
 	- Each of the Kingsman are born off high society, save the one probationary member, Sir Gareth, who the party run into. He was taken off the streets by Sir Gaheris and given a chance to become a member of Kingsman.
@@ -65,7 +68,8 @@ tags:
 ## History
 - **Chrovos:**
     - In Sinnoh mythology, the Sinnoh people depict Arceus as the first being and creator of the universe. That isn't entirely true as Chaos, or better recognized as Chrovos, was a being that exceeded the universe and was the first being that created Arceus itself.
-    - Arceus sealed Chrovos away after they had created Earth, Pokemon, and Humans, and Chrovos wanted to annihilate life for existing in its chaos.
+    - Arceus sealed Chrovos away after they had created Earth, Pokemon, and Humans, and Chrovos existence wished for the end of life in its chaos
+    - Alternatively,  Chrovos embodies the concept of the Void
 - **Kaiju Trio:**
     - While the legends in Sinnoh depict Arceus creating Azelf (willpower), Uxie (knowledge), and Mesprit (emotion) after the Creation Trio, the truth is that the Origin Pokémon created another trio of Legendaries before the Lake Guardians. A prototype to Emotion, Knowledge, and Willpower. Concepts less refined jammed into vessels incapable of sustaining such vast abstractions. Courage, Power, and Wisdom. Diphisra, Infernagon, and Gamera.
     - Incapable of returning the concepts of Courage, Power, and Wisdom to the Void, and afraid of the consequences, Arceus instead put the Kaiju Trio into a deep slumber within the earth, sky and water of present-day Indalo. 
@@ -84,6 +88,7 @@ tags:
 			- In the modern day, Chrovos' nebula touched the mind of Arthur Fontaine, and later, Giovanni Sakaki, influencing the two to pursue their power and free Chrovos, which led to Arthur Fontaine perceiving a hidden weapon within the Indalo Region.
 		- In the end, Arceus forced an end to conflict with the help of the Aura Guardians, a group of humans capable of tapping into the life essence that each Pokemon is born with, slaying the many rulers that incited the conflict and destroying any historical piece of evidence that mentions the Earthbound Immortals and Chrovos themselves. 
 			- The Aura Guardians then split up and traveled to set up bases across all regions in order to better protect the world as a whole. Almost every organization that fights the evil of the Pokemon World can draw their roots all the way back to the Aura Guardians: Aura Guardians, Division (Nikita), Kingsman (Kingsman Franchise), Pokemon Rangers
+- **Hour of Joy:** 
 ## Locations
 - Sky Kingdom - Kingdom in the sky in which humans have developed Pokemon abilities, which only a few humans have on the Surface; those with any amount of Aura have an affinity to a certain Type and are capable of using miniscule amounts of the Type, such as Psychics and Aura Masters.
 
