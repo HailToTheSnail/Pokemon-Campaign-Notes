@@ -29,7 +29,7 @@ tags:
         - **Rocket Providence:** With Giovanni having killed off the Partners of Providence, he has taken over the shadow cabal with powerful allies that he has recruited over the years, such as Alexander "Lex" Stone and Champion Cadence. Find a way to stop Rocket Providence and defeat Giovanni.
 - **What Makes A King (Kurisu Quest Thread):** After learning from a that his Seadra can evolve once more, Kurisu embarks on a quest to gather six Marks of Fealty from Pokémon from all over the Indalo region.
 - **Earthbound Immortals:** Providence has uncovered
-	- 
+	- **Mithril Murals:**
 		- **Chrovos:** 
 
 ## Organizations
@@ -42,6 +42,9 @@ tags:
 - Kamille has become Instagram famous.
 - Garibaldi - strongest trainer or Fakemon (on par with Bidoof)
 	- "I am inevitable."
+- Character that was created by Providence for the single purpose of being 
+	- Every action he made wasn't by his own choice but by Providence.
+		- In the end, he makes the choice to sacrifice his life in order to put to rest an Earthbound Immortal or Chrovos.
 
 ## Fakémon
 - [Anvulcan](https://www.instagram.com/p/CF-aNcrjiYc/?epik=dj0yJnU9enlqV01sUjVXNEQ5cEdFLXQ2R3RwaDJEYVVQZnM4eGYmcD0wJm49MGZyU3VqcU9TaTlfSmUweGMwWUN5dyZ0PUFBQUFBR2JESGRr), the Forge Pokémon  - Steel/Fire
@@ -69,7 +72,7 @@ tags:
 - **Chrovos:**
     - In Sinnoh mythology, the Sinnoh people depict Arceus as the first being and creator of the universe. That isn't entirely true as Chaos, or better recognized as Chrovos, was a being that exceeded the universe and was the first being that created Arceus itself.
     - Arceus sealed Chrovos away after they had created Earth, Pokemon, and Humans, and Chrovos existence wished for the end of life in its chaos
-    - Alternatively,  Chrovos embodies the concept of the Void
+    - Alternatively,  Chrovos represents the Void, the living embodiment of the absence of everything, which led to Arceus sealing Chrovos when the Origin Pokemon wished to create life.
 - **Kaiju Trio:**
     - While the legends in Sinnoh depict Arceus creating Azelf (willpower), Uxie (knowledge), and Mesprit (emotion) after the Creation Trio, the truth is that the Origin Pokémon created another trio of Legendaries before the Lake Guardians. A prototype to Emotion, Knowledge, and Willpower. Concepts less refined jammed into vessels incapable of sustaining such vast abstractions. Courage, Power, and Wisdom. Diphisra, Infernagon, and Gamera.
     - Incapable of returning the concepts of Courage, Power, and Wisdom to the Void, and afraid of the consequences, Arceus instead put the Kaiju Trio into a deep slumber within the earth, sky and water of present-day Indalo. 
@@ -85,9 +88,10 @@ tags:
 	- The Lost Age is a period of time with almost no recorded archaeological history. The events of this period are so important and relevant that by learning them, one is said to become capable of destroying the world.
 		- The Lost Age depicts a period of time in which people became aware of the Earthbound Immortals and a being of power higher than Arceus itself. Many people sought to make Chrovos' power there own and started freeing the Earthbound Immortals. Chaos was sewn across the Indalo Region and massive wars were fought by kings and queens racing for Chrovos' power.
 			- Chrovos' existence and power started spreading to humans, being who were capable of corruption, through dreams of them appearing as an infinite nebula of chaos (Works similar to the Radiance's).
-			- In the modern day, Chrovos' nebula touched the mind of Arthur Fontaine, and later, Giovanni Sakaki, influencing the two to pursue their power and free Chrovos, which led to Arthur Fontaine perceiving a hidden weapon within the Indalo Region.
+			- In the modern day, Chrovos' nebula touched the mind of Arthur Fontaine, and later, Giovanni Sakaki, influencing the two to pursue their power and free Chrovos, which led to Arthur Fontaine perceiving a hidden weapon within the Indalo Region and Giovanni to betray the Partners.
 		- In the end, Arceus forced an end to conflict with the help of the Aura Guardians, a group of humans capable of tapping into the life essence that each Pokemon is born with, slaying the many rulers that incited the conflict and destroying any historical piece of evidence that mentions the Earthbound Immortals and Chrovos themselves. 
-			- The Aura Guardians then split up and traveled to set up bases across all regions in order to better protect the world as a whole. Almost every organization that fights the evil of the Pokemon World can draw their roots all the way back to the Aura Guardians: Aura Guardians, Division (Nikita), Kingsman (Kingsman Franchise), Pokemon Rangers
+			- The Aura Guardians then split up and traveled to set up bases across all regions in order to better protect the world as a whole. Almost every organization that fights the evil of the Pokemon World can draw their roots all the way back to the Aura Guardians: Aura Guardians, Division (Nikita), Kingsman (Kingsman Franchise), and the Pokemon Rangers.
+- **Lost Christmas:** 
 - **Hour of Joy:** 
 ## Locations
 - Sky Kingdom - Kingdom in the sky in which humans have developed Pokemon abilities, which only a few humans have on the Surface; those with any amount of Aura have an affinity to a certain Type and are capable of using miniscule amounts of the Type, such as Psychics and Aura Masters.
