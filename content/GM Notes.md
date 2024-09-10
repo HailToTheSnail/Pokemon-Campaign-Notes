@@ -28,11 +28,15 @@ tags:
     - **Providence Overthrown:** Having dealt with two of Providence's Partners, Gabrielle Mercer and Marcus Atwood, the only hurdle left to topple is Providence Partner, Arthur Fontaine. However, word has spread amongst the Underworld of new leadership within Providence. before you could do, he was betrayed by his Constant, who turned out to be the long disappeared leader of Team Rocket, Giovanni Sakaki. 
         - **Rocket Providence:** With Giovanni having killed off the Partners of Providence, he has taken over the shadow cabal with powerful allies that he has recruited over the years, such as Alexander "Lex" Stone and Champion Cadence. Find a way to stop Rocket Providence and defeat Giovanni.
 - **What Makes A King (Kurisu Quest Thread):** After learning from a that his Seadra can evolve once more, Kurisu embarks on a quest to gather six Marks of Fealty from Pokémon from all over the Indalo region.
-- **Earthbound Immortals:** Providence has uncovered
-	- **Mithril Murals:**
-		- **Chrovos:** 
+- **Mithril Murals:** Having found a mural depicting some event in the past in the Fang Cavern, you realize that due to indestructible material of the mural, these may very well be the last remnants of the lost history of the Indalo region. Your party has taken pictures and sent the relevant information to Researcher Orden. Search the Indalo Region and find more of these murals to uncover the truth of the Lost Age.
+	- **Earthbound Immortals:** Providence have discovered the same murals as yourselves and have learnt the truth of the Earthbound Immortals. They seek to free each one and release the Ultimate Weapon that the murals depict. What they hadn't found was the one hidden mural that depicts the end of the world if that weapon is released. Find a way to stop Providence from freeing the Earthbound Immortals and unleashing the Ultimate Weapon that will end the world.
+		- **Chrovos:** With the Earthbound Immortals roaming free across the Indalo Region, chaos is spreading and Chrovos has been freed. It is only a matter of time before the Being of Chaos/Absence ends life in the Pokémon World entirely. Find a way to meet Arceus and ask for his help in stopping Chrovos.
 
 ## Organizations
+- The Aura Guardians are the remnants of an age long gone. Having been protectors of both humanity and Pokémon alike, they are the founding fathers of many of the greatest defense forces against evil such as Division (Nikita), Kingsman (Kingsman Franchise), and especially the Pokémon Rangers. The Aura Guardians of the current age are a small splintered organization that each work independently from one another.  They are all capable of Aura manipulation, and by extension molding Type Energy. They are extremely protective of their secrets after having witnessed the Lost Age and are wary of their Aura manipulation skills being used for evil. Nonetheless, they will do everything in their power to help both humans and Pokémon alike.
+	- The Aura Guardians have a practice in order to properly teach and preserve the honor of their fellowship. It is called the Rule of Two. This means that an Aura Guardian will only ever take on one apprentice in their lifetime so that they can focus their entirety in teaching that one person and making sure that the knowledge and power they are passing down does not corrupt their apprentice.
+	- The Aura Guardians are one of the few beings that know about what truly happened in the Lost Age which is passed down from generation to generation from word of mouth.
+- The ancient civilization of Edrians were capable of manipulating Energy to a lesser extent than Pokemon. Pokemon guided humans back then on how to use Energy and were Masters in a sense. It was only thousands of years later that Pokémon became slaves to humans after they believed themselves superior due to human numbers. And since then, many humans forgot about their ability to mold Type Energy.
 - The Kingsman Secret Service is a secret organization that works directly for the Crown. They function as secret agents that do everything in their power to keep Indalo safe. They are highly-trained agents with a partner Pokémon and each have code names based on the Knights of the Round Table.
 	- All Kingsman agents are supported by two individuals known by the code-names "Merlin" and "Morgana" in reference to Merlin the Wizard and Morgana le Fay, who oversees the agency support staff, formulates field strategies, trains prospective recruits and provides technological/IT assistance as necessary.
 	- Each Kingsman has a signet ring that identifies them as a Kingsman.
@@ -68,6 +72,10 @@ tags:
 - **Gravity Down:** At the start of each turn, it pulls every Pokémon down to the ground, reducing the foe's Speed stat by one. Pokémon cannot flee or switch. In addition, Flying-Type Pokémon or Pokémon with the Ability Levitate, lose their Immunity to Ground-Type Moves. Flying-Type Moves have no effect while this Pokémon is on the field.
 - **Spectral Grasp:** Physical Moves have a 30% chance to disable the opponent's last used Move for 2 turns.
 
+## Terminology
+ - Everyone has Aura (the ability to manipulate Type Energy) and a natural affinity to a certain Type. While everyone has Aura, the majority of people are incapable of molding their Aura into Type Energy. This is because the practice of molding Aura into Type Energy has been lost to humanity since the events of the Lost Age. The few that can mold Type Energy have either practiced molding their Aura into Type Energy, thus increasing their reserves, or were naturally born with large reserves, thus making them capable of forcefully molding their Aura into Type Energy.
+	 - Many of the greatest trainers know how to mold Aura into Type Energy, and often learn of this phenomenon throughout their journey. This elevates them to a level where they better understand their Pokémon, and therefore are far more capable as trainers.
+
 ## History
 - **Chrovos:**
     - In Sinnoh mythology, the Sinnoh people depict Arceus as the first being and creator of the universe. That isn't entirely true as Chaos, or better recognized as Chrovos, was a being that exceeded the universe and was the first being that created Arceus itself.
@@ -85,16 +93,18 @@ tags:
 - **The Continent of Edria:**
     - The Indalo region used to be recognized as the Continent of Edria by the Edrians, the people of Edria, before most of their history was lost to the Lost Age save for a few temples and murals left in locations of importance to the Kaiju Trio.
 - **The Lost Age:**
-	- The Lost Age is a period of time with almost no recorded archaeological history. The events of this period are so important and relevant that by learning them, one is said to become capable of destroying the world.
+	- The Lost Age is a period of time with almost no recorded archaeological history. The events of this period are so important and relevant that by learning them, one is said to become capable of destroying the world. 
 		- The Lost Age depicts a period of time in which people became aware of the Earthbound Immortals and a being of power higher than Arceus itself. Many people sought to make Chrovos' power there own and started freeing the Earthbound Immortals. Chaos was sewn across the Indalo Region and massive wars were fought by kings and queens racing for Chrovos' power.
 			- Chrovos' existence and power started spreading to humans, being who were capable of corruption, through dreams of them appearing as an infinite nebula of chaos (Works similar to the Radiance's).
 			- In the modern day, Chrovos' nebula touched the mind of Arthur Fontaine, and later, Giovanni Sakaki, influencing the two to pursue their power and free Chrovos, which led to Arthur Fontaine perceiving a hidden weapon within the Indalo Region and Giovanni to betray the Partners.
 		- In the end, Arceus forced an end to conflict with the help of the Aura Guardians, a group of humans capable of tapping into the life essence that each Pokemon is born with, slaying the many rulers that incited the conflict and destroying any historical piece of evidence that mentions the Earthbound Immortals and Chrovos themselves. 
 			- The Aura Guardians then split up and traveled to set up bases across all regions in order to better protect the world as a whole. Almost every organization that fights the evil of the Pokemon World can draw their roots all the way back to the Aura Guardians: Aura Guardians, Division (Nikita), Kingsman (Kingsman Franchise), and the Pokemon Rangers.
+		- The beings that know of the Lost Age are Arceus, the Creation Trio, most of the Legendary Pokémon, some of the oldest Dragon-Type Pokémon, a select few long-lived Pokémon, and the Aura Guardians.
 - **Lost Christmas:** 
 - **Hour of Joy:** 
+- **The Nihility:**
 ## Locations
-- Sky Kingdom - Kingdom in the sky in which humans have developed Pokemon abilities, which only a few humans have on the Surface; those with any amount of Aura have an affinity to a certain Type and are capable of using miniscule amounts of the Type, such as Psychics and Aura Masters.
+- Sky Kingdom - Kingdom in the sky in which humans continued to co-exist with Pokémon and therefore continued to cultivate their talents with molding Type Energy under the guidance of Pokémon. This is something only a few humans on the Surface are capable of due to losing this gift after trying to seize the power for themselves from the Pokémon. Due to their smaller population, they have retained the old ways and have relied on molding Type Energy to survive instead of technological evolution.
 
 ## Quests
 - Pokemon Center Escape - Party feel safe in the Pokemon Center room but then the Pokemon Center is attacked by Providence. They have no Pokemon and need to escape downstairs to get their Pokeballs.
