@@ -17,7 +17,7 @@ The duties of a Pokémon Ranger are varied and extensive, ranging from ensuring 
 While many Pokémon Rangers choose to train their own Pokémon to accomplish their peacekeeping duties, some Rangers find the use of a Poké Ball hinders their connection to Pokémon and use a device known as a Capture Styler instead. This makes it so that a Pokémon Ranger doesn't require their own Pokémon, and can instead, befriend nearby wild Pokémon to accomplish their mission objectives.
 
 ## Uniform
-Pokémon Ranger uniforms vary from region to region, each uniform tailored to suit the climate their peacekeeping duties occupy. The standard uniform
+Pokémon Ranger uniforms vary from region to region, each variety of uniform tailored to suit the climate their peacekeeping duties occupy. The standard uniform
 
 - Dry - 
 - Continental - 

@@ -9,7 +9,6 @@ Mimi Lualdi was born and raised in Snowpoint City and made friends with a Snorun
 
 ## Goals
 - Become a Champion-level trainer.
-- Document the misunderstood nature of Ghost-Type Pokémon
 
 ## Badges
 - N/A
