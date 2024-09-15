@@ -10,7 +10,7 @@ tags:
     - Having been born in the waters off the coast of Pacifidlog Town, the newborn Kurisu suffered greatly from was blessed by Manaphy, and by extension, the ocean itself. Favored by the "Prince of the Sea" themselves, Kurisu has been blessed with a deeper connection and love for the ocean and Water-Types.
 
 ## Current Threads
-- **Pokémon Champion:** Having met Champion Cadence, a desire to achieve what he has achieved has been burned into the soul. Take your team to the top and achieve every trainer's dream of becoming the Champion.
+- **Pokémon Champion:** Having met Champion Cadence, a desire to achieve what he has achieved has been etched into the soul. Take your team to the top and achieve every trainer's dream of becoming the Champion.
 
 ## Future Threads
 - **Origin of the World:** Recent discoveries of blackholes suggest that they lead back to the beginning of time, feeding temporal energy to the Big Bang. Learn of the origin of the world and Pokémon as a species.
@@ -61,6 +61,20 @@ tags:
 	- These Pokémon are very fast and combative. It is said that the blade on their arm is so sharp and resistant, that it can even cut through large trees or rocks in the blink of an eye.
 - [Valkirien](https://www.instagram.com/p/B5QarepISB1/?epik=dj0yJnU9eW04d2VydUdCa1RVTlZhS1kwWk5LZnBHTFBoWE1FSUMmcD0wJm49R0JqdEJRaXoxWGswdHJkdnJwamN3USZ0PUFBQUFBR2JESkk4&img_index=1), the Sky Paladin Pokémon - Fairy/Steel
 	- The legends of Indalo say that these Pokémon guarded the very entrance to the Hall of Origin where Arceus slumbers. Despite their elegant appearance, this lethal Pokémon defends themselves and those they serve against attacks using the shield and then pierce their opponent with the sword attached to their other arm.
+- [Buneary - Doll Forme](https://www.projectazurite.com/kurian-buneary), the Rabbit Pokémon - Ghost/Normal
+	- Some Buneary are taken from the world too young and some refuse to accept their fate. This leads them to possess Buneary Dolls that are found in the Kuria region. These Buneary are quite lonely, since people are naturally afraid of a plush that just came to live all of the sudden. Buneary simply wishes to find a Trainer to take care of it and love it so that it can live the life of a normal Buneary.
+- [Lopunny - Doll Forme](https://www.projectazurite.com/kurian-lopunny), the Rabbit Pokémon - Ghost/Normal
+	- After evolution, the plush body and the soul are completely linked due to the affection of its Trainer. In this form, it'll do whatever it can do make its trainer proud of it. It's very thankful for the affection it had received as a Buneary, so it feels like it is forever in your favor. This is especially apparent in battle, where Lopunny sometimes loses focus to see if the Trainer is happy with its performance. However, not all is as happy as it seems. While the soul and body are truly linked again, the soul also becomes corrupt over time. As much as a second chance at life sounds good, it's not meant to be. Because of this corruption, it can be very sadistic to the extent that it can accidentally horrify the being it's supposed to impress.
+- [Lopunny Mega - Doll Forme](https://www.projectazurite.com/mega-klopunny), the Rabbit Pokémon - Ghost/Fighting
+	- While plenty of Mega Evolutions have some grueling side effects, the Mega Evolution of Lopunny - Doll Forme is by far the most disturbing. When the behavior of this terrifying Mega Evolution was studied by Professor Sycamore, he found out that during the process, Lopunny re-experiences the time it passed as a normal Buneary. The realization and denial corrupts the soul to a horrifying extent. It forces Lopunny to think that it needs to fight viciously to survive and that its opponents want it dead. It takes an extremely capable Trainer to make sure that Lopunny Mega - Doll Forme doesn't go too far or hurt itself, let alone others. As long as it has a Trainer it can depend on, Lopunny is less likely to get unstable.
+- [Cherrim Mega](https://www.projectazurite.com/mega-cherrim), the Blossom Pokémon - Grass/Fire
+	- The sun has made this Pokémon fully blossom at last. Through the power of Mega Evolution, Cherrim has completely embraced the sun! From little cherry to a shy blossom and now a blazing blossom with heat so intense it can distort the gravity of certain objects, Cherrim has become an absolute powerhouse. With its ability Drought, the sun will be up immediately upon Mega Evolution! Accompany that gloriously incandescent sun with powerful moves such as Fire Blast and Solarbeam, which both get the Same Type Attack Bonus now that Cherrim is Grass/Fire-type!
+- [Crystal Starmie](https://www.projectazurite.com/crystal-starmie-1), the Mysterious Pokémon - Water/Psychic
+	- One of the first rumors of crystal Pokémon came from the Orange Islands of a Crystal Onix. However, no one has ever actually seen this creature. The first real crystal Pokémon seen by humans was when K-Pop Idol and Gym Leader, Malenia, returned to Indalo from a trip to Kanto with a crystal Starmie. At first it was thought to be a new evolution for Starmie, since it turned out to be significantly more powerful than a regular Starmie. And for a short time, this Starmie was dubbed "Starima." Many have tried to pry the location of this crystal Starmie from Malenia, but she has stated that the Pokémon found her, not the other way around.
+- Inkalf, the Shadow Pokémon - Dark/Ghost
+	- Inkalf are the unevolved form of Okapypaste and are frightened easily by even their own shadows which they have yet to fully understand. Incapable of protecting themselves, the Inkalf stick with their parents and the herd until they evolve and leave to create their own herd. These Pokémon migrate across the \[Insert African Region Name] region twice a year.
+- Okapypaste, the Shadow Pokémon - Dark/Ghost
+	- They are able to manipulate their own shadows, often draping them around their bodies or forming fake heads to scare off would be predators. They rely on the darkness casted by rainforest canopies to thrive. Due to the poaching of these exotic Pokémon for their shadow ink, their numbers in the wild have depleted drastically. In human society, breeding centers have been created to try and repopulate this endangered species. 
 - [Shadow Lugia](https://bulbapedia.bulbagarden.net/wiki/Shadow_Lugia) , the Diving Pokémon - Psychic/Flying (Lara/XD001)
 	- Lara was a young Lugia that was infected by the Negative Taint. She was captured at a young age, which was the reason for the natural destruction of numerous coastal cities at the hands of the mother Lugia. Caught by Cipher, they raised the Lugia in a lab where they were the first test subject of Project Shadow. A slave to Cipher, Lugia unwillingly did their bidding, robbed of their freedom and putting up a futile resistance. Eventually, Lara was freed from Cipher by Michael. Despite this, after nearly half a decade, the Lugia was captured once again by Providence.
 - [Hollow](https://hollowknight.fandom.com/wiki/Knight) - UB Knight, the Vessel Pokémon - Ghost/Dark
@@ -131,6 +145,8 @@ tags:
 - Fakemon Sprites -
 	- PragMagik -
 	 https://www.youtube.com/watch?app=desktop&v=dJ3gSPPfu-o 
+	 - Vik_Works -
+	 https://www.instagram.com/vik_works/?hl=en
 	 - Distant Past or Future Pokémon -
 	 https://www.instagram.com/onduregion/
 - OST Music Emporium -
