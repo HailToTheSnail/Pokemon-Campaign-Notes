@@ -1,6 +1,6 @@
 ---
 title: Session 2
-draft: true
+draft: false
 tags:
 ---
 ## Characters
@@ -22,8 +22,7 @@ tags:
 - When neither Al or Mimi want to help Kurisu, the latter bribes Al's Munchlax, Leon, with 3 Camping Rations to join the battle. In addition, he offers Mimi with a limitless amount of candid shots with his consent to upload.
 - During the battle, Squirtle rushes at the Nidoran - Male, tucks into his shell and slams into the Poison-Type
 - After a brutal beatdown, Adolescent Joey, Samantha and Sammy are traumatized even further beyond what Kurisu had done prior to their battle. Kurisu gives Al 3 Camping Rations and the party earns 270 EXP (90 EXP each) from the battle.
-- 
-- Traumatized Samantha and Sammy by injuring their Pokemon, Squirtle broke off one of Nidoran's horns and embedded into its side. Leon slammed the Spearow into the ground bursting the berry he had on him, making it look like Spearow died. 
+- Traumatizing Samantha and Sammy by injuring their Pokemon, Squirtle broke off one of Nidoran's horns and embedded into its side. Leon slammed the Spearow into the ground bursting the berry he had on him, making it look like Spearow died. 
 - After the battle, Kurisu gives Adolescent Joey a Poké Ball, inspiring/intimidating the poor boy into meeting Kurisu in the Zircon Conference at the end of the year.
 - The group returns to the Pokémon Lab with Joey and co in tow to heal their Pokémon.
 - Professor Stephen is disappointed in Al and Mimi for getting caught up in Kurisu's bullshit.

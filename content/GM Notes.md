@@ -124,9 +124,9 @@ tags:
 - Pokemon Center Escape - Party feel safe in the Pokemon Center room but then the Pokemon Center is attacked by Providence. They have no Pokemon and need to escape downstairs to get their Pokeballs.
 ## Notes
 - How To Update Notes To Website:
-    - cd C:\Users\Snail\source\repos\Pokemon-Campaign-Notes
+    - cd C:\Users\Snail\Dropbox\source\repos\Pokemon-Campaign-Notes
     - npx quartz sync
-- Write more about Edrian culture and history, as well as Pokédex to know what Route a Pokemon is and behaviours
+	- Write more about Edrian culture and history, as well as Pokédex to know what Route a Pokemon is and behaviours
 - Tentacool that knows Gum Gum Gatling.
 - Quick Withdraw - One you learn about the tech, you can use a bonus action to quick switch.
 - Pokedex have a max range of 30ft.

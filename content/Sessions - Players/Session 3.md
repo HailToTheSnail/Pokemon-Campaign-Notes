@@ -1,6 +1,6 @@
 ---
 title: Session 3
-draft: true
+draft: false
 tags:
 ---
 ## Characters
