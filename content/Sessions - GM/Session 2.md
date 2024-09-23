@@ -22,7 +22,7 @@ tags:
 	- As you step foot outside of Solet Town, your hit with the sudden realization that you've started on your own adventure. Something you've dreamed of since childhood but never had the chance to actually experience. It was surreal in a sense, amplifying every aspect of what could be considered a rather generic Route. The vibrant forest path glows just a bit brighter in your eyes, the pleasing scent of berries and trees just that much more rich, and the chirping of wild Pidgey and the scuttling of wild Rattata rings louder in your ears. It's beautiful, ethereal despite its normality. You can see that the sun is starting to set in the distance, but you're fairly sure you can make it at least halfway to the end of the Route before you need to set up camp for the night.
 
 ## NPCs Encounters
-- Adolescent Joey
+- Adolescent Joey - Trainer Aspirant
 	- Gender: Male
 	- Race: Kantoan
 	- Job: Trainer

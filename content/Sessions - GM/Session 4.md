@@ -22,7 +22,7 @@ tags:
 	- With a tragic end to the environmental fanatic, Benjamin, and a new friend in the security guard, Charles, you journey forward into Route 2, excited to see what your next leg of adventure has to offer. Unfortunately for Kurisu, its probably his biggest nightmare ever - the desert. Not a drop of water to be seen in this veritable ocean of sand. And if that weren't enough to dissuade the group, the sweltering heat of the sun at its peak with not even a cloud in sight seems to just about wheeze that this isn't worth it.
 
 ## NPCs Encounters
-- Maraya
+- Maraya - Pokémon Ranger
     - Gender: Female
     - Race: Unovan
     - Job: Pokémon Ranger (General)
@@ -99,7 +99,7 @@ tags:
 | AC: 13         |                  |                | Ember (Fire)    | Immunities: N/A                                  |
 | Nature: Clumsy | Size: Tiny       | Proficiency: 2 | Round (Normal)  | EXP Worth: 160                                   |
 ## Notes
-- Charles gives Kurisu his security guard hat.
+- Charles gives Kurisu his security guard hat and tells him to give it back to him at the end of his journey through Indalo.
 - Charles tells the party about his time dealing with the terrorist group, Team Dim Sum, in Fiore.
 - Charles tells Al that the first kill is always the hardest and that he just needs to work through the feelings.
 - Al has a sidebar with Kurisu and apologizes to Kurisu for punching him in the face in a fluster of emotions.

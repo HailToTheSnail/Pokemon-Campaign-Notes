@@ -19,9 +19,45 @@ tags:
 
 ## Descriptions and Details
 - Anca Town:
-	- Getting up and dusting yourselves off, you look up and see 
+	- Pushing yourselves off the ground and onto your knees, you ignore the rough sand that has crept into your clothes and look up slowly, still disoriented from your nasty fall off the cliff side of Route 2. In front of you is a sprawling low-rise desert town that is both colourful and alive. The powerful scent of spices linger on your nose and the bustle of activity on the streets catches your eye. Small vibrant stalls line either side of the sandstone streets with people hocking their wares—anything from  uncommon Berries to luxurious silks.
+	 You recognize that many of the buildings in the desert town are single-story and built of sandstone and mud with either flat or gently sloping roofs. Some of these homes have rooftop gardens brimming with a panoply of Berries, while a number of these homes are highlighted with unique patterns such as dots, flowers, lines, squiggles, and zig-zags of varying vibrant colours. 
+	 A few of the buildings in particular are noticeably different in this low-rise town, those of which include—the bright orange roof of a Pokemon Center, the deep blue of a Poke Mart, the large two-story sandstone building with gargoyles out front, and the most eye-catching structure being a massive statue of a lindwyrm Pokemon that towers over the rest of the buildings in the small town.
+- Anca Ruins:
+	- Stepping over and past the caution tape, you make your way inside the entrance of the cavern and into where the Anca Ruins undoubtedly are. You walk into a dimly lit cavern that opens up near the far end. At the back of the cavern is a 
+- Infernagon Statue:
+	- Walking up the statue, you stand in awe of the  are aware of the fact that the Pokémon that it depicts takes on the shape of a lindwyrm
+- Inferno Mines:
+	- Walking into the caverns of the Inferno Mines, you’re immediately made aware of the sharp plicking of metal on stone echoing off the claustrophobic tunnel you traverse. The low light of the lanterns strung along the wooden scaffolding scarcely lights up the ground in front of you as you follow the length of steel tracks that lead into a much larger cave. Your eyes continue to follow the tracks that led you here that cross the cavern and down a new mineshaft. When you take in the rest of the underground chamber, you notice a pond of still water where you’re certain you see gentle ripples. You also notice another set of tracks on an upper ledge of the cavern that leads down another mineshaft. 
+	 Near the back of the cavern, you see a scruffy older man in a bright blue outfit and yellow hard hat holding a clipboard. You hear him shout something out to another worker in similar apparel who shout back an affirmative before he start swinging his pickaxe against the rough stone walls.
+- Museum Gym:
+	- Stepping into the museum, your eyes notice the small booth to your left where a desk clerk is sitting and tapping away at a computer. He seems to ignore your entrance and you look beyond into the museum itself. The interior is massive and numerous tourists, and you can tell they're tourists with their expensive cameras and pale skin, moseying about from attraction to attraction. They cluster around fossils and skeletons organized neatly around the perimeter of the building interior. Benches and plants are scattered around the museum to provide places of rest for the guests and bring some much needed greenery into the otherwise colourless building. You notice that the groups of people leave a noticeable open area at the center of the museum that you aren't aware of the reason for—bar perhaps Kurisu.
+- Pokémon Center:
+	- Stepping into the Pokemon Center, you're greeted by the immediately greeted by the quiet chatter of numerous trainers returning from their own training or battles for the day. Many were handing their Pokeballs to the nurse manning the front desk, while others were
+- Poké Mart:
+	- 
 
 ## NPCs Encounters
+- Cadmus - Gym Leader of Anca Town (Rock)
+	- Gender: Male
+	- Race: Indaloan
+	- Job: Chill Security Guard
+	- Affection: Neutral (Al and Mimi) and Liked (Kurisu)
+	- Voice and Inflection: chill person that likes to keep everyone calm, speaks in a very slow and high on weed voice.
+	- NPC Dialogue Lines (what they know):
+- Josh - Mining Foreman
+	- Gender: Male
+	- Race: Indaloan
+	- Job: Chill Security Guard
+	- Affection: Neutral (Al and Mimi) and Liked (Kurisu)
+	- Voice and Inflection: chill person that likes to keep everyone calm, speaks in a very slow and high on weed voice.
+	- NPC Dialogue Lines (what they know):
+- Jacob - Miner
+	- Gender: Male
+	- Race: Indaloan
+	- Job: Chill Security Guard
+	- Affection: Neutral (Al and Mimi) and Liked (Kurisu)
+	- Voice and Inflection: chill person that likes to keep everyone calm, speaks in a very slow and high on weed voice.
+	- NPC Dialogue Lines (what they know):
 - 
 
 ## Planned Encounters

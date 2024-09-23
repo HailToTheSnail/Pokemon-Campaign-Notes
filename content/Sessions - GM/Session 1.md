@@ -59,7 +59,7 @@ tags:
 	- The first is a tall man with long black hair styled like waving flames. He's wearing a simple blue collared shirt under a white lab coat, black jeans and black runners. A little different from the normal appearance and wear you'd see a proper professor wearing, but it was a lot more tame compared to the girl standing next to him. Her hair was a bright orange with small star adornments sprinkled within. She had black sunglasses tinted red resting on the top of her head. She is wearing a turquoise tank top under her own white lab coat, sky blue jeans, and turquoise boots.
 
 ## NPCs Encounters
-- Professor Stephen
+- Professor Stephen - Pokémon Professor of Types
 	- Gender: Male
 	- Race: Indaloan
 	- Job: Pokémon Professor
@@ -71,7 +71,7 @@ tags:
 		- Dialogue 3: Warn the players about the increase in rampant crime by  syndicates around the Indalo region, especially the larger cities like Taioh, Metro and Zircon.
 		- Action 1: Register the three trainers into the Indalo Pokémon League circuit systems (Professor Stephen has access as the regional Pokémon Professor).
 		- Action 2: Challenge the party to a battle to help slowly introduce them to the concept of battling (and familiarize the players with Pokémon 5e).
-- Professor Sonia
+- Professor Sonia - Pokémon Professor of Ancient Civilizations
 	- Gender: Female
 	- Race: Galarian
 	- Job: Pokémon Professor
@@ -80,7 +80,7 @@ tags:
 	- Dialogue Lines:
 		- Dialogue 1: An introduction that she is a Pokémon Professor that researches the origin of human civilizations. She will tell the players that she's here on vacation but also hopes to discover the lost history of the Indalo people.
 		- Dialogue 2: If spoken to enough, she will start to tell embarrassing stories about Professor Stephen at Professor Oak's summer camp that they attended as kids. Like how he cried over the marshmallow that she stole from him at the campfire.
-- Researcher Orden
+- Researcher Orden - Pokémon Researcher
 	- Gender: Male
 	- Race: Indaloan
 	- Job: Pokémon Researcher

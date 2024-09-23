@@ -20,8 +20,22 @@ tags:
 ## Descriptions and Details
 - Liyue River: (50% Zoom)
     - As you near the end of Route 1, you hear the crashing of choppy water and emerge from the tree line to see a large river that's at least twenty-five feet in width. While not exactly violent, it still seems extremely hard to cross by swimming alone. Maybe a strong swimmer could, but it'd still be dangerous. What really draws your attention though is the relatively new wooden bridge that travels the width of the river. It is held up by four large wooden stakes with two ropes attached from both stakes on one side of the river to the two stake on the other side of the river. There are also supporting ropes traveling from the the length of the main rope down to the wooden planks below. While it reminds you of every unsafe bridge that has been crossed high up in mountains in the movies, it looks far more structurally safe than those ones.
+- Alcon Dam:
+	- After climbing a kilometer up river, you notice a large concrete dam in the distance with a roaring flood of water flowing from large open gates near the top of the structure. Between the loud crashing of water and the humming of generators, it's hard to hear your own thoughts. It's the Alcon Dam.
+		- Roll History: (Success: 12) - The Alcon Dam was an innovation of technology that redefined sustainable energy when it was first introduced. Although a little outdated, with Alcon Industries having found far better solutions to global warming, the Alcon Dam still provides a sizeable portion of the Indalo Region's energy, only overcome by places such as Eco City itself.
 
 ## NPCs Encounters
+- Charles - Pokémon Ranger (former) & Security Guard
+	- Gender: Male
+	- Race: Indaloan
+	- Job: Chill Security Guard
+	- Affection: Neutral (Al and Mimi) and Liked (Kurisu)
+	- Voice and Inflection: chill person that enjoys the small things in life and tries to keep up the good vibes, speaks in a very slow and high on weed voice that is very soothing.
+	- NPC Dialogue Lines (what they know):
+		- Dialogue 1: Recognizes Kurisu as one of his buddies that he hung out with every so often for the past two years and asks Kurisu when they're going to next get hotpot.
+		- Dialogue 2: Introduces himself to the party as Charles and tells the party that he's a security guard of the Alcon Dam and that he can't let them cross the river because of the bridge that was built down the river.
+		- Action 1: When asked to help with deal with Ben at the Avatar Bridge, he goes with the players to investigate the situation.
+			- Action 1.5: If Ben attacks the party, Charles with engage in battle with the players against Ben and help them combat the nature conservation activist.
 - Benjamin "Ben"
     - Gender: Male
     - Race: Indaloan

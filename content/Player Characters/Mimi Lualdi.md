@@ -5,7 +5,12 @@ tags:
 ---
 ![[Mimi Lualdi.png]]
 ## Description
-Mimi Lualdi was born and raised in Snowpoint City and made friends with a Snorunt. Loves snow.
+Mimi Lualdi was born and raised in Snowpoint City and is a woman of \[Insert Age] years old. 
+made friends with a Snorunt. Loves snow.
+
+Al Greene is purebred Kantoan man of twenty-five years who was a Berry Farmer until he found himself on the run from loan sharks. He is a heavily tanned man with well-defined muscles earned through endless hours working the fields of his berry farm. He has kind olive green eyes and short black hair with a nearly shaved goatee. He also wears very simple wide-brimmed straw hat, off-white button-up and blue jeans which are both comfortable and practical to his work.
+
+Al is a very sweet person who is both kind and patient. After having lived a rough early life, he has come to appreciate many of the small things in life and prefers to come at most problems with a peaceful option if given the opportunity. He also isn’t very smart due to a lack of formal education beyond high school because of life circumstances. Nonetheless, he always tries his hardest at what he does and gives it his all.
 
 ## Goals
 - Become a Champion-level trainer.
