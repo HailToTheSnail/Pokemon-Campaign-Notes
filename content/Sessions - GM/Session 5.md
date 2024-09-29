@@ -23,7 +23,8 @@ tags:
 	 You recognize that many of the buildings in the desert town are single-story and built of sandstone and mud with either flat or gently sloping roofs. Some of these homes have rooftop gardens brimming with a panoply of Berries, while a number of these homes are highlighted with unique patterns such as dots, flowers, lines, squiggles, and zig-zags of varying vibrant colours. 
 	 A few of the buildings in particular are noticeably different in this low-rise town, those of which include—the bright orange roof of a Pokemon Center, the deep blue of a Poke Mart, the large two-story sandstone building with gargoyles out front, and the most eye-catching structure being a massive statue of a lindwyrm Pokemon that towers over the rest of the buildings in the small town.
 - Anca Ruins:
-	- Stepping over and past the caution tape, you make your way inside the entrance of the cavern and into where the Anca Ruins undoubtedly are. You walk into a dimly lit cavern that opens up near the far end. At the back of the cavern is a 
+	- Stepping over and past the caution tape, you make your way inside the entrance of the cavern and into where the Anca Ruins undoubtedly are. You walk into a dimly lit cavern that opens up near the far end. At the back of the cavern is the remains of what looks to be the entrance to some caved-in ruins. There are intricate details that two of you cannot make out—Al recognizes it as Ancient Language.
+	 In front of the ruins, you see
 - Infernagon Statue:
 	- Walking up the statue, you stand in awe of the  are aware of the fact that the Pokémon that it depicts takes on the shape of a lindwyrm
 - Inferno Mines:
@@ -44,6 +45,11 @@ tags:
 	- Affection: Neutral (Al and Mimi) and Liked (Kurisu)
 	- Voice and Inflection: chill person that likes to keep everyone calm, speaks in a very slow and high on weed voice.
 	- NPC Dialogue Lines (what they know):
+		- Dialogue 1: 
+		- Dialogue 2:
+		- Dialogue 1 (Anca Museum):
+		- Dialogue 2 (Anca Museum):
+		- Action 1: If the party requests a Pokémon battle, 
 - Josh - Mining Foreman
 	- Gender: Male
 	- Race: Indaloan
@@ -62,10 +68,124 @@ tags:
 
 ## Planned Encounters
 
-### N/A
+### Anca Ruins - Enforcer Lex
+
+| Hydreigon - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| ---------------- | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15           | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157          | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17           | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash     | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+### Inferno Cave - Pokémon Encounters
+
+| Aron - Male  | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| ------------ | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15       | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157      | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17       | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+
+| Diglett - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| -------------- | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15         | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157        | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17         | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash   | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+
+| Feebas - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| ------------- | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15        | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157       | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17        | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash  | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+
+| Ferroseed - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| ---------------- | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15           | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157          | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17           | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash     | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+
+| Geodude (Kanto) - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| ---------------------- | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15                 | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157                | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17                 | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash           | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+
+| Zubat - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| ------------ | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15       | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157      | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17       | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+
+| Zubat - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| ------------ | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15       | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157      | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17       | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+### Zubat Bridge Encounter
+
+| Zubat - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| ------------ | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15       | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157      | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17       | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+
+| Zubat - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| ------------ | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15       | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157      | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17       | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+
+| Zubat - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| ------------ | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15       | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157      | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17       | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+
+| Zubat - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| ------------ | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15       | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157      | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17       | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+### Gym Leader Cadmus
+
+| Dwebble - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| -------------- | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15         | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157        | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17         | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash   | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+
+| Geodude - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| -------------- | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15         | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157        | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17         | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash   | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+
+| Tyrunt - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| ------------- | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15        | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157       | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17        | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash  | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
+
+| Boldore - Male | Type: Dark/Dragon | Ability: Levitate | Moves:                | Held Items: N/A                                        |
+| -------------- | ----------------- | ----------------- | --------------------- | ------------------------------------------------------ |
+| Lv: 15         | Walk Speed: 30ft  | Intimidation +5   | Slamh (Normal)        | Vulnerabilities: Fairy, Dragon, Bug, Fighting, Ice     |
+| HP: 157        | Fly Speed: 35ft   | Survival +8       | Focus Energy (Normal) | Resistances: Dark, Ghost, Grass, Electric, Water, Fire |
+| AC: 17         | Dark Vision: 80ft |                   | Crunch (Dark)         | Immunities: N/A                                        |
+| Nature: Rash   | Size: Medium      | Proficiency: 2    | Dragon Pulse (Dragon) | EXP Worth: 24,600                                      |
 
 ## Notes
-- The party is chased out of Route 2 by the Hippowdon and off a cliffside into Anca Town. The party earns 600 EXP (200 EXP each) for surviving the rampaging Hippowdon. 
 - When the party wake at the bottom of the cliffside, Al slaps Kurisu awake and notices the Trapinch attached to his friend's ass. He doesn't comment or tell Kurisu about it.
 - Mimi and Al drag Kurisu to the Pokemon Center to get checked up. 
 - Arrive at the Pokemon Center and Al tells Nurse Joy about Kurisu's injury.
@@ -90,3 +210,38 @@ tags:
 - When they wake up, the party head to the Gym, which turns out to be the Museum.
 - The party learn that Gym Leader Cadmus was at the Inferno Mines and that he often didn't return for days. The party choose to go get him.
 - The party head to the Inferno Mines and get ready to head in.
+- **Session 6 starts here:**
+- The party heads into the Inferno Mines and find themselves following steel tracks into a larger cavern with a still water pond. Al notices a pair of Zubat hanging from the ceiling and a Feebas in the still water. Party scans a Feebas and Zubat.
+- Al uses a Poke Ball and catches the Feebas and they move further into the mines.
+- Al effortlessly climbs over a four foot ledge while the others have to clamber over it.
+- Mimi finds a pile of dirt and runs through it. She trips over something metal that also stabs into her leg, hurting her.
+- Kurisu calls for a medic and a miner by the name Kevin comes over and tries to help her. She gets up before Kevin can help and he gets mad at Kurisu for asking for help when it wasn't needed and walks off.
+- Mimi sifts through the dirt and sees an iron dome with green spikes on it. Kurisu perceives it further and sees a pair of yellow eyes glaring at the group, but doesn't care to look at it any more and walks away.
+- Al uncovers the rest of the green and steel spiked dome before staring and scanning the small Steel-Type to learn it's a Ferroseed; he then used a Nest Ball to capture it.
+- Party scanned the Ferroseed.
+- Kurisu meets a trainer named Joey who was trying his hands at mining. He hadn't found anything of note save for colourful rocks. Mimi asks for some of the rocks for Fuecoco and he gives her five different coloured rocks.
+- The party sees an unnatural rock by the tunnel they wanted to go down next and Al gets up close to inspect it. It punches him in the face and reveals itself as a Pokemon. The party scans it and learn that it's a Geodude.
+- Both Al and Kurisu defeat the Geodude and they continue on further into the mines after Al uses a Soda Pop to heal himself for 10 HP after stabbing himself on Ferroseed's Iron Barbs when trying to congratulate the Pokemon on a job well done.
+- When the party delve deeper into the Inferno Mines, they meet a miner named Fred who tells them that Cadmus is deeper in the mines.
+- He points them to a minecart and tells them to take that across the tracks.
+- Kurisu runs ahead across the tracks set above a chasm but stops midway when he sees a Zubat, while Al and Mimi try to figure out how to work the minecart.
+- Mimi sees an eye peering up at her from the ground beside the minecart and gets Al to try and see it; he doesn't see shit. Mimi pokes the ground and an eye peeks out again. Al scans the Pokemon and learns that its an Aron.
+- They ignore the Aron and take the minecart to where Kurisu is at a ledge midway across the chasm. They find another pile of rocks and Kurisu has a quick conversation with Miner Derek while Mimi sifts through the rocks. She finds nothing.
+- Kurisu inspects the minecart because of past trauma with the Zubats from two years ago. He doesn't see anything wrong with it and neither does Mimi.
+- They get in and try to travel across the rest of the chasm but slow down midway across the chasm. Mimi gets out of the minecart and tries to run the rest of the way but is ambushed by a horde of Zubats and forced into a battle.
+- The horde of Zubat Supersonic the party and one of them slam into Mimi and pushes her off the mine tracks and down into the abyss.
+- Mimi's Snorunt decimates the Zubat turning them into popsicles, while Leon jumps down into the chasm taking massive damage in order to give Mimi a Soda and resuscitate her.
+- Mimi and Leon look around the cavern and find a small crawl space that leads to the main part of the Inferno Mines.
+- Mimi gives Leon an Oran Berry for jumping down and saving her which restores his health, while Al gives his Pokemon a Lum Berry as a token of appreciation.
+- They travel back across the mine tracks and Al has to push the minecart the rest of the way because Kurisu refuses to get out because of his trauma.
+- The part see a white and red-haired, muscular, tanned individual at the far end of the cavern and head towards him.
+- They try to get Gym Leader Cadmus' attention, but he has headphones on and is singing "Call Me Maybe." They tap his shoulder and do everything to get his attention, but nothing works until Kurisu waves his arm in front of Cadmus, risking his arm from the pickaxe swings that Cadmus is swinging.
+- He tells them that he can set up three challenges for tomorrow morning at nine before asking if they'd like to try mining with him. The party tries but fails epically, including their Pokemon. They wait for Cadmus to create a new tunnel because they did not want to return the way they went.
+- The party leaves the cavern and parts ways with Gym Leader Cadmus.
+- Outside the Inferno Mines, Mimi uses the colourful rocks she has to persuade Fuecoco to join her on her adventure. She captures the Fuecoco.
+- The party head down Route 3 to find Mimi a third Pokemon.
+- Kurisu tells them that he wants to be in bed before 1AM to get eight hours of sleep.
+- They see all sorts of Pokemon, including two Diglett, a Dwebble, a Geodude, a Nidoran, a Cacnea, Darumaka, and a Scraggy.
+- Mimi chooses to capture the Scraggy and uses a Poke Ball but fails to catch Scraggy the first time. However, after Snorunt takes a massive hit, she catches the Scraggy.
+- The party head back to the Pokemon Center, where they rest and get ready for their Gym Challenge tomorrow.
+- **Session 7 starts here:**

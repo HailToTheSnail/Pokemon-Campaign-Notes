@@ -117,3 +117,5 @@ tags:
 - Mimi picks up Fuecoco and starts running. Her hair was singed by Fuecoco burping fire.
 - Al notices a defensive Sandile where he passed the Hippopotas.
 - Kurisu chooses to run with whatever is biting his ass. Al wants to perceive Kurisu's ass.
+- **Session 5 starts here**
+- The party is chased out of Route 2 by the Hippowdon and off a cliffside into Anca Town. The party earns 600 EXP (200 EXP each) for surviving the rampaging Hippowdon. 

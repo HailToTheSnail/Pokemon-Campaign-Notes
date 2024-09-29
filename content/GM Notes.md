@@ -49,6 +49,8 @@ tags:
 - Character that was created by Providence for the single purpose of being 
 	- Every action he made wasn't by his own choice but by Providence.
 		- In the end, he makes the choice to sacrifice his life in order to put to rest an Earthbound Immortal or Chrovos.
+- Giovanni is an influential politician that controls the strings from the shadows like Zekram Bael but more successful.
+	- Make his decisions and influences subtle but not wholy unrecognizable if the players put in the work to figure it out.
 
 ## Fakémon
 - [Anvulcan](https://www.instagram.com/p/CF-aNcrjiYc/?epik=dj0yJnU9enlqV01sUjVXNEQ5cEdFLXQ2R3RwaDJEYVVQZnM4eGYmcD0wJm49MGZyU3VqcU9TaTlfSmUweGMwWUN5dyZ0PUFBQUFBR2JESGRr), the Forge Pokémon  - Steel/Fire
@@ -79,12 +81,21 @@ tags:
 	- Lara was a young Lugia that was infected by the Negative Taint. She was captured at a young age, which was the reason for the natural destruction of numerous coastal cities at the hands of the mother Lugia. Caught by Cipher, they raised the Lugia in a lab where they were the first test subject of Project Shadow. A slave to Cipher, Lugia unwillingly did their bidding, robbed of their freedom and putting up a futile resistance. Eventually, Lara was freed from Cipher by Michael. Despite this, after nearly half a decade, the Lugia was captured once again by Providence.
 - [Hollow](https://hollowknight.fandom.com/wiki/Knight) - UB Knight, the Vessel Pokémon - Ghost/Dark
 	- Hollow are Ultra Beasts that  live in another world known as Hallownest. They are the discarded Vessels, beings of the Void, created by the Pale King as a means of stopping the Infection, an ancient sickness that led to the deaths of thousands of bugs and ultimately the ruination of the kingdom of Hallownest. Unworthy and incapable of achieving the goals set by the Pale King, these unwanted Vessels are left to wander the depths of the Abyss for eternity.
-- Pokémon with a missing eye that player catches gets a glass eye and bobs head left and right whenever they are going to attack to get a better depth perception for an attack on a target.
-- Strong non-Legendary Pokémon that has the ability Desolate Land or Primordial Sea.
 
 ## Abilities
 - **Gravity Down:** At the start of each turn, it pulls every Pokémon down to the ground, reducing the foe's Speed stat by one. Pokémon cannot flee or switch. In addition, Flying-Type Pokémon or Pokémon with the Ability Levitate, lose their Immunity to Ground-Type Moves. Flying-Type Moves have no effect while this Pokémon is on the field.
 - **Spectral Grasp:** Physical Moves have a 30% chance to disable the opponent's last used Move for 2 turns.
+
+## Techniques
+- **Aura:** By coating your body in aura, you have a natural layer of protection that is your soul manifested. The stronger your soul and willpower, the stronger your aura is.
+- **Desolate Land or Primordial Sea:** Strong non-Legendary Pokémon that has trained enough to acquire this ability.
+	- Perhaps Al's Hippopotas, if he keeps it, has Origin Stream
+- **Hyperspace Fury:** Creating numerous space rifts around the user, they rapidly punch the user through them like the Dough Fruit in Blox Fruit
+	- Use Blox Fruits fruit abilities as reference for Pokemon techniques.
+- Pokémon with a missing eye that player catches gets a glass eye and bobs head left and right whenever they are going to attack to get a better depth perception for an attack on a target.
+- Pokémon missing an arm makes up for it with a construct of Ground, Water, Fire? Maybe uses Telekinesis. 
+- Psychic Pokémon that is paralyzed from the neck down uses Telekinesis to move their body around.
+- Pokémon has its source of Type removed and hones their physical might to fight other Pokémon. Ex. Pikachu has its electric sacs ruptured and unable to use Electric-Type Moves for the rest of its natural life.
 
 ## Terminology
  - Everyone has Aura (the ability to manipulate Type Energy) and a natural affinity to a certain Type. While everyone has Aura, the majority of people are incapable of molding their Aura into Type Energy. This is because the practice of molding Aura into Type Energy has been lost to humanity since the events of the Lost Age. The few that can mold Type Energy have either practiced molding their Aura into Type Energy, thus increasing their reserves, or were naturally born with large reserves, thus making them capable of forcefully molding their Aura into Type Energy.
@@ -152,7 +163,9 @@ tags:
 - OST Music Emporium -
     - Baldur's Gate 3 - [https://www.youtube.com/watch?v=Vofkw9-O18c&list=PLi1CK-rsvz1Nfz83RMBp_9YaIgBWd0l9x](https://www.youtube.com/watch?v=Vofkw9-O18c&list=PLi1CK-rsvz1Nfz83RMBp_9YaIgBWd0l9x)
     - Eureka Seven - [https://www.youtube.com/watch?v=TfNpRgOKykA&list=PLf_Jjejz50_mztgV40waMP_0_LM89rZX8&ab_channel=allstar31992](https://www.youtube.com/watch?v=TfNpRgOKykA&list=PLf_Jjejz50_mztgV40waMP_0_LM89rZX8&ab_channel=allstar31992)
+    - Genshin Impact - [https://www.youtube.com/watch?v=EEYMlUVKmyE&list=PL9a-XcBZFOg_QDtqFeH7sLonP9owBTlny&ab_channel=Yu-PengChen-Topic](https://www.youtube.com/watch?v=EEYMlUVKmyE&list=PL9a-XcBZFOg_QDtqFeH7sLonP9owBTlny&ab_channel=Yu-PengChen-Topic)
     - Guilty Crown - [https://www.youtube.com/watch?v=ciCHAQMo5cM&list=PLRW80bBvVD3U9C1_veAOcsDady8hBlLuO&index=1&ab_channel=HiroyukiSAWANO-Topic](https://www.youtube.com/watch?v=ciCHAQMo5cM&list=PLRW80bBvVD3U9C1_veAOcsDady8hBlLuO&index=1&ab_channel=HiroyukiSAWANO-Topic)
+    - Honkai Star Rail - [https://www.youtube.com/@PomPomsWorkstation/videos](https://www.youtube.com/@PomPomsWorkstation/videos)
     - How To Train Your Dragon - [https://www.youtube.com/watch?v=VWr0hSKLcXY&list=PLbd8mEjGKXNSYG5aZX9ODmZWvOavycY2O](https://www.youtube.com/watch?v=VWr0hSKLcXY&list=PLbd8mEjGKXNSYG5aZX9ODmZWvOavycY2O)
     - Jump King - [https://www.youtube.com/watch?v=wZetIFUd5vY&list=PLZk8ouPxMt3yKOoQG3lG2hZYFqjhUEV8a&ab_channel=Nexile](https://www.youtube.com/watch?v=wZetIFUd5vY&list=PLZk8ouPxMt3yKOoQG3lG2hZYFqjhUEV8a&ab_channel=Nexile)
     - Oppenheimer - [https://www.youtube.com/watch?v=inQgO0a6rGE&list=PLDisKgcnAC4QJDGcv7BafiO3tqpRYrTXe&ab_channel=OriginalSoundtrack](https://www.youtube.com/watch?v=inQgO0a6rGE&list=PLDisKgcnAC4QJDGcv7BafiO3tqpRYrTXe&ab_channel=OriginalSoundtrack)
