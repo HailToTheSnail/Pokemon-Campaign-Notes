@@ -64,7 +64,6 @@ tags:
 	- Affection: Neutral (Al and Mimi) and Liked (Kurisu)
 	- Voice and Inflection: chill person that likes to keep everyone calm, speaks in a very slow and high on weed voice.
 	- NPC Dialogue Lines (what they know):
-- 
 
 ## Planned Encounters
 
@@ -231,6 +230,7 @@ tags:
 - They get in and try to travel across the rest of the chasm but slow down midway across the chasm. Mimi gets out of the minecart and tries to run the rest of the way but is ambushed by a horde of Zubats and forced into a battle.
 - The horde of Zubat Supersonic the party and one of them slam into Mimi and pushes her off the mine tracks and down into the abyss.
 - Mimi's Snorunt decimates the Zubat turning them into popsicles, while Leon jumps down into the chasm taking massive damage in order to give Mimi a Soda and resuscitate her.
+- At the end of the battle, the party earns 1500 EXP (500 EXP each) from the battle. 
 - Mimi and Leon look around the cavern and find a small crawl space that leads to the main part of the Inferno Mines.
 - Mimi gives Leon an Oran Berry for jumping down and saving her which restores his health, while Al gives his Pokemon a Lum Berry as a token of appreciation.
 - They travel back across the mine tracks and Al has to push the minecart the rest of the way because Kurisu refuses to get out because of his trauma.
@@ -245,3 +245,33 @@ tags:
 - Mimi chooses to capture the Scraggy and uses a Poke Ball but fails to catch Scraggy the first time. However, after Snorunt takes a massive hit, she catches the Scraggy.
 - The party head back to the Pokemon Center, where they rest and get ready for their Gym Challenge tomorrow.
 - **Session 7 starts here:**
+- Party wakes up and Kurisu heads out to swim in the 2 feet of water, while Al and Mimi head to the Poke Mart.
+- Michaela buys 3 Poke Balls for \$750 and 1 Potion for \$200 and Al buys 1 Potion for \$200.
+- Party head to the Pokemon Museum/Gym and Al gets stopped at the register, his name not being registered for the Gym Challenge. 
+- The receptionist goes to find Gym Leader Cadmus and returns with an apology for Al before letting them in.
+- The party watches Gym Leader Cadmus give a showcase of Fossil Pokemon to the crowds, where he introduces Pokemon like Aerodactyl, Tyrunt, and Tyrantrum; even showing his Tyrantrum in its Mega state.
+- Al reminds Gym Leader Cadmus of their Gym Challenge and the crowd of tourists clear the stage for the battle. Al has the first fight followed by Kurisu and then Mimi.
+- Al's Fight:
+	- Cadmus throws out Geodude and Al releases Beef, the Feebas. Beef struggles to use Hypnosis on the Geodude and returns Beef for Spike, the Ferroseed.
+	- After a painstakingly long fight, Spike manages to whittle down Geodude with his Iron Barb ability and numerous Rock Blasts to knock out the Rock Pokemon.
+	- Cadmus then sends out Dwebble that does some good chip damage to Spike before being ultimately knocked out with Rock Blasts.
+	- Cadmus sends out Tyrunt and plays hit-and-run tactics, taking out Spike with a couple of Bulldozes.
+	- Al releases Beef again and OKO's Tyrunt with a powerful Dragon Pulse.
+- Kurisu's Fight:
+	- Cadmus throws out Geodude and Kurisu uses Pinch, the Trapinch. Pinch knocks out Geodude after a few uses of Bulldoze.
+	- Cadmus sends out Dwebble who makes quick work of Pinch with a devastating Solar Beam, which got into Cadmus' head and made him fumble the battle with his next Pokemon, Squirtle.
+	- Squirtle struggles to hit the Dwebble and is soon taken out by Rock Blast.
+	- After being called out by Cadmus for letting the first loss get to him, Kurisu manages to take out the Dwebble with his next Pokemon, Pidgey, the Sandshrew.
+	- Having acknowledged his strength, Cadmus wants to challenge Kurisu and sends out an Aerodactyl. Pidgey puts up a good fight against the Aerodactyl, but ultimately loses after being struck by a powerful Wing Attack.
+- Mimi's Fight:
+	- Cadmus throws out Geodude and Mimi counters with Scraggy. Scraggy uses Brick Break and OKO's Geodude. Mimi says that he served his purpose and Scraggy is demoralized, losing -1 Loyalty.
+	- Cadmus sends out Archen and Scraggy deals massive damage to the Rock/Flying-Type before being knocked out by a Quick Attack.
+	- Mimi releases Fuecoco and burns Archen with an Ember before finishing the First Bird Pokemon with a second Ember.
+	- Cadmus throws out Tyrunt and quickly knocks out the Fuecoco with a Dragon Claw.
+	- Mimi throws out Snorunt and OKO's Tyrunt with Ice Shard and Powder Snow.
+- At the end of the battle, the party earns 1500 EXP (500 EXP each) from the battle and are given the Mine Badge (mine entrance and rock face), \$3000 ($1000 each) and 3x Sandstorm TMs. Gym Leader Cadmus congratulates the three of them and is looking forward to seeing them at the Marvel Dome Conference at the end of the year.
+- Kurisu gives back \$500 to Cadmus for being a good mentor and is given an Amber by the Aerodactyl that he found as an Egg that Gym Leader Cadmus raised.
+- Kurisu doesn't feel like he is ready to handle an Aerodactyl and Cadmus takes back the Amber before heading into the back of the Museum and returning with an Omanyte Egg.
+- Gym Leader Cadmus gives Kurisu the Omanyte Egg and tells him to take care of it and raise it to become a Champion-level Pokemon.
+
+- "Pokemon Name, show them the power of Water" - Kurisu catchphrase for throwing out Pokemon.
