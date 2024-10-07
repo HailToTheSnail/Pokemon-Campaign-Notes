@@ -162,6 +162,7 @@ tags:
 	 https://www.instagram.com/onduregion/
 - OST Music Emporium -
     - Baldur's Gate 3 - [https://www.youtube.com/watch?v=Vofkw9-O18c&list=PLi1CK-rsvz1Nfz83RMBp_9YaIgBWd0l9x](https://www.youtube.com/watch?v=Vofkw9-O18c&list=PLi1CK-rsvz1Nfz83RMBp_9YaIgBWd0l9x)
+    - Dova-Syndrome - https://dova-s.jp/EN/
     - Eureka Seven - [https://www.youtube.com/watch?v=TfNpRgOKykA&list=PLf_Jjejz50_mztgV40waMP_0_LM89rZX8&ab_channel=allstar31992](https://www.youtube.com/watch?v=TfNpRgOKykA&list=PLf_Jjejz50_mztgV40waMP_0_LM89rZX8&ab_channel=allstar31992)
     - Genshin Impact - [https://www.youtube.com/watch?v=EEYMlUVKmyE&list=PL9a-XcBZFOg_QDtqFeH7sLonP9owBTlny&ab_channel=Yu-PengChen-Topic](https://www.youtube.com/watch?v=EEYMlUVKmyE&list=PL9a-XcBZFOg_QDtqFeH7sLonP9owBTlny&ab_channel=Yu-PengChen-Topic)
     - Guilty Crown - [https://www.youtube.com/watch?v=ciCHAQMo5cM&list=PLRW80bBvVD3U9C1_veAOcsDady8hBlLuO&index=1&ab_channel=HiroyukiSAWANO-Topic](https://www.youtube.com/watch?v=ciCHAQMo5cM&list=PLRW80bBvVD3U9C1_veAOcsDady8hBlLuO&index=1&ab_channel=HiroyukiSAWANO-Topic)
